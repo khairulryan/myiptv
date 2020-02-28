@@ -1,0 +1,102 @@
+#EXTM3U
+# malaysia.m3u
+  
+#EXTINF:-1 tvg-logo="https://freeview.github.io/iptv/logos/tv1.png",TV1
+https://rtm1hd.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b1064000.m3u8|Referer=https://myklik.rtm.gov.my
+
+#EXTINF:-1 tvg-logo="https://freeview.github.io/iptv/logos/tv2.png",TV2
+https://rtm5hd.secureswiftcontent.com/Origin1/ngrp:RTM1/chunklist_b1064000.m3u8|Referer=https://myklik.rtm.gov.my
+
+#EXTINF:-1 tvg-logo="https://freeview.github.io/iptv/logos/tv3.png",TV3
+https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHdnOHLh1t91ne-HuQ510Gy0)/dm/3/x6qp375/d/live-3.m3u8|Referer=https://www.dailymotion.com/embed/video/k3GVzd2cWbveXyrApah
+
+#EXTINF:-1 tvg-logo="https://freeview.github.io/iptv/logos/ntv7.png",NTV7
+https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHUy2AeS3d3Sesh8p9ixCMeA)/dm/3/x6qp6ou/s/live-3.m3u8|Referer=https://www.dailymotion.com/embed/video/kxm1wihUkjNiINrAqlg
+
+#EXTINF:-1 tvg-logo="https://freeview.github.io/iptv/logos/8tv.png",8TV
+https://stream-05.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHeev5Hdl3IvAByooX_kffaE)/dm/3/x6qud17/s/live-3.m3u8|Referer=https://www.dailymotion.com/embed/video/kdFzSYy1bHxrForBrar
+
+#EXTINF:-1 tvg-logo="https://freeview.github.io/iptv/logos/tv9.png",TV9
+https://stream-02.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHWRQjncHc3lIMrCEKKvc5xs)/dm/3/x6qqja6/s/live-3.m3u8|Referer=https://www.dailymotion.com/embed/video/k1FijVynGNsZ2ZrAGJ0
+
+#EXTINF:-1 tvg-logo="https://freeview.github.io/iptv/logos/dramasangat.png",Drama Sangat
+https://stream-01.sg1.dailymotion.com/sec(jyCOMoYa2SFWfHvye_Gd0lTgLQX-QGvf5FO1Oe2mKHQ)/dm/3/x6zvnex/s/live-3.m3u8|Referer=https://www.dailymotion.com/embed/video/x6zvnex
+
+#EXTINF:-1 tvg-logo="https://freeview.github.io/iptv/logos/okey.png",OKEY
+https://rtm2hd.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b1064000.m3u8|Referer=https://myklik.rtm.gov.my
+
+#EXTINF:-1 tvg-logo="https://freeview.github.io/iptv/logos/rtmhdsports.png",RTM Sports HD
+https://rtm6hd.secureswiftcontent.com/Origin2/ngrp:RTM2/chunklist_b1064000.m3u8|Referer=https://myklik.rtm.gov.my
+
+#EXTINF:-1 tvg-logo="https://freeview.github.io/iptv/logos/bes.png",RTM BES
+https://rtm3hd.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b1064000.m3u8|Referer=https://myklik.rtm.gov.my
+
+# #EXTINF:-1 tvg-logo="https://freeview.github.io/iptv/logos/onenews.png",One News
+# https://rtmonenews.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b1064000.m3u8|Referer=https://myklik.rtm.gov.my
+
+# Youtube Channels
+
+# #EXTINF:-1 tvg-logo="https://freeview.github.io/iptv/logos/tvalhijrah.png",TV Alhijrah 
+# https://freeview.github.io/iptv/source/offline-source.mp4
+
+#EXTINF:-1 tvg-logo="https://freeview.github.io/iptv/logos/bernama.png",BernamaTV 
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1582912832/ei/4ABZXqsyhfqjA6eTs_AP/ip/2001:f40:908:d7d7:d452:5b1e:1b90:b21e/id/v-8UbsP_va4.0/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/r2---sn-uphxqvujvh-30as.googlevideo.com/vprv/1/playlist_type/DVR/initcwndbps/13850/mm/44/mn/sn-uphxqvujvh-30as/ms/lva/mv/m/mvi/1/pl/48/dover/11/keepalive/yes/fexp/23842630/mt/1582891160/disable_polymer/true/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,goi,sgoap,sgovp,vprv,playlist_type/sig/ADKhkGMwRQIhAJRNFC0acaeS9ZurkK-OL4XvKboXNTX2Bi0vci7k-e-lAiAkS_ytkAn99SPnDhVKEWaj1xpE4wQemwa_47xpbxRSng%3D%3D/lsparams/hls_chunk_host,initcwndbps,mm,mn,ms,mv,mvi,pl/lsig/ABSNjpQwRgIhALTsbfE0Ppu_jPn5pZcva2IZI8OhWanLbyP1sInZcXMSAiEA20wvf3K0Yqg5fml3yrgxkaYwllHQtEi1L9LMCnGzyaQ%3D/playlist/index.m3u8|Referer=https://www.youtube.com
+
+#EXTINF:-1 tvg-logo="https://freeview.github.io/iptv/logos/awani.png",Astro Awani 
+https://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/stream04/streamPlaylist.m3u8
+
+#EXTINF:-1 tvg-logo="https://freeview.github.io/iptv/logos/aljazeera.png",Al-Jazeera
+https://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index255.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.tvikim.my/images/logo-header-02.png",TVIkim
+http://edge.vediostream.com:80/abr/tvikim/live/tvikim_source/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/freeview/iptv/blob/master/logos/axn.png",AXN
+http://210.210.155.66/h/h141/02.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png",Movie 1
+http://aldirect.hls.huya.com/huyalive/28466698-2689656864-11551988268341919744-2847699194-10057-A-0-1_1200.m3u8
+ 
+#EXTINF:-1 tvg-logo="noimage.png",Movie 2
+http://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1_1200.m3u8
+ 
+#EXTINF:-1 tvg-logo="noimage.png",Movie 3
+http://aldirect.hls.huya.com/huyalive/28466698-2689656864-11551988268341919744-2847699194-10057-A-0-1_1200.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://files.ott.pm/media/images/channel/2019/01/05/large/20190105211400818946_67.png",Celestial Movie
+https://anevia115.mncnow.id/live/eds/CelestialMovie/sa_hls/CelestialMovie-avc1_1000000=7-mp4a_66000_eng=2.m3u8
+
+#EXTINF:-1 tvg-logo="https://cinemaworld.asia/wp-content/uploads/2019/08/CMW-Logo_Gold.png",Cinema World Movie
+https://liveanevia.mncnow.id/live/eds/CinemaWorld/sa_hls/CinemaWorld-avc1_2499968=13-mp4a_98800_eng=3.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://github.com/freeview/iptv/blob/master/logos/cinemax.png",Cinemax Movie
+https://liveanevia.mncnow.id/live/eds/CinemaxHD/sa_hls/CinemaxHD-avc1_2499968=7-mp4a_98800_eng=3.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://github.com/freeview/iptv/blob/master/logos/foxmovies.png",FOX Movies
+https://liveanevia.mncnow.id/live/eds/FoxChannel/sa_hls/FoxChannel-avc1_2499968=11-mp4a_98800_eng=3.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://github.com/freeview/iptv/blob/master/logos/fx.png",FX Movie
+https://liveanevia.mncnow.id/live/eds/FX/sa_hls/FX-avc1_2499968=10-mp4a_98800_eng=3.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://github.com/freeview/iptv/blob/master/logos/foxlife.png",FOX Life
+http://anevia115.mncnow.id/live/eds/STARWorld/sa_hls/STARWorld-avc1_499968=4.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://github.com/freeview/iptv/blob/master/logos/foxcrime.png",FOX Crime Movie
+https://liveanevia.mncnow.id/live/eds/FoxCrime/sa_hls/FoxCrime-avc1_2499968=10-mp4a_98800_eng=3.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://github.com/freeview/iptv/blob/master/logos/hits.png",Hits
+https://liveanevia.mncnow.id/live/eds/HITS/sa_hls/HITS-avc1_2499968=11-mp4a_98800_eng=5.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://github.com/freeview/iptv/blob/master/logos/hitsmovies.png",Hits Movies
+https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_hls/HitsMovies-avc1_2499968=12-mp4a_98800_eng=5.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/freeview/iptv/blob/master/logos/hbohits.png",HBO Hits
+http://anevia115.mncnow.id/live/eds/HBOHits/sa_hls/HBOHits.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://github.com/freeview/iptv/blob/master/logos/hbosig.png",HBO Signatures
+http://liveanevia.mncnow.id/live/eds/HBOSignature/sa_hls/HBOSignature.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://github.com/freeview/iptv/blob/master/logos/kix.png",KIX Movie
+https://liveanevia.mncnow.id/live/eds/KIX/sa_hls/KIX-avc1_1000000=7-mp4a_98800_eng=3.m3u8
+
+

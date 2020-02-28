@@ -36,6 +36,8 @@ https://rtm3hd.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b1064000.m3u8
 # #EXTINF:-1 tvg-logo="https://freeview.github.io/iptv/logos/onenews.png",One News
 # https://rtmonenews.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b1064000.m3u8|Referer=https://myklik.rtm.gov.my
 
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/2d/Logo_Astro_Ceria.png",Astro Ceria
+http://50.7.161.82:8278/Ceria/playlist.m3u8?tid=mfabd35f3f60610763675&ct=17913&tsum=83045199eb5a761e7e547c2ecd825d21
 # Youtube Channels
 
 # #EXTINF:-1 tvg-logo="https://freeview.github.io/iptv/logos/tvalhijrah.png",TV Alhijrah 
@@ -74,8 +76,8 @@ http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/06.m3u8
 #EXTINF:-1 tvg-logo="https://freeview.github.io/iptv/logos/trtworld.png",TRT World
 https://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/index_1080p_av-p.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.nasa.gov/sites/default/files/files/tv_share.jpg",Nasa TV
-https://nasa-i.akamaihd.net/hls/live/253565/NASA-NTV1-Public/master_2000.m3u8|Referer=https://www.nasa.gov/multimedia/nasatv/
+# #EXTINF:-1 tvg-logo="https://www.nasa.gov/sites/default/files/files/tv_share.jpg",Nasa TV
+# https://nasa-i.akamaihd.net/hls/live/253565/NASA-NTV1-Public/master_2000.m3u8|Referer=https://www.nasa.gov/multimedia/nasatv/
 
 #EXTINF:-1 tvg-logo="https://freeview.github.io/iptv/logos/axn.png",AXN
 http://210.210.155.66/h/h141/02.m3u8
@@ -86,17 +88,23 @@ http://aldirect.hls.huya.com/huyalive/28466698-2689656864-11551988268341919744-2
 #EXTINF:-1 tvg-logo="noimage.png",Movie 2
 http://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1_1200.m3u8
 
-#EXTINF:-1 tvg-logo="noimage.png", Movies 3
+#EXTINF:-1 tvg-logo="noimage.png",Movies 3
 http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1.m3u8?_alisec=444ba9250b52e2120110e0d7996e94b0
  
-#EXTINF:-1 tvg-logo="noimage.png", FRIENDS TV
+#EXTINF:-1 tvg-logo="noimage.png",FRIENDS TV
 http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1.m3u8?_alisec=b5378704f4f8cb22c873c8bfa795feea
  
-#EXTINF:-1 tvg-logo="noimage.png", Marvel & DC Movies
+#EXTINF:-1 tvg-logo="noimage.png",Marvel & DC Movies
 http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1.m3u8?_alisec=087789b7c2aa28e701c9e0fb8988e3a0
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://files.ott.pm/media/images/channel/2019/01/05/large/20190105211400818946_67.png",Celestial Movie
-https://anevia115.mncnow.id/live/eds/CelestialMovie/sa_hls/CelestialMovie-avc1_1000000=7-mp4a_66000_eng=2.m3u8
+#EXTINF:-1 tvg-logo="https://www.satlogo.com/hires/mm/movie_box_mn.png",Movie Box
+http://tx.hls.huya.com/huyalive/29106097-2689447600-11551089486305689600-2789274568-10057-A-0-1.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/54/STAR_Movies_logo.svg/1280px-STAR_Movies_logo.svg.png",Star Movies
+http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8
+
+# #EXTINF:-1 tvg-logo="http://files.ott.pm/media/images/channel/2019/01/05/large/20190105211400818946_67.png",Celestial Movie
+# https://anevia115.mncnow.id/live/eds/CelestialMovie/sa_hls/CelestialMovie-avc1_1000000=7-mp4a_66000_eng=2.m3u8
 
 # #EXTINF:-1 tvg-logo="https://cinemaworld.asia/wp-content/uploads/2019/08/CMW-Logo_Gold.png",Cinema World Movie
 # https://liveanevia.mncnow.id/live/eds/CinemaWorld/sa_hls/CinemaWorld-avc1_2499968=13-mp4a_98800_eng=3.m3u8
@@ -116,13 +124,13 @@ https://anevia115.mncnow.id/live/eds/CelestialMovie/sa_hls/CelestialMovie-avc1_1
 # #EXTINF:-1 tvg-logo="https://freeview.github.io/iptv/logos/foxcrime.png",FOX Crime Movie
 # https://liveanevia.mncnow.id/live/eds/FoxCrime/sa_hls/FoxCrime-avc1_2499968=10-mp4a_98800_eng=3.m3u8
  
-# #EXTINF:-1 tvg-logo="https://github.com/freeview/iptv/blob/master/logos/hits.png",Hits
+# #EXTINF:-1 tvg-logo="https://freeview.github.io/iptv/logos/hits.png",Hits
 # https://liveanevia.mncnow.id/live/eds/HITS/sa_hls/HITS-avc1_2499968=11-mp4a_98800_eng=5.m3u8
  
-# #EXTINF:-1 tvg-logo="https://github.com/freeview/iptv/blob/master/logos/hitsmovies.png",Hits Movies
+# #EXTINF:-1 tvg-logo="https://freeview.github.io/iptv/logos/hitsmovies.png",Hits Movies
 # https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_hls/HitsMovies-avc1_2499968=12-mp4a_98800_eng=5.m3u8
 
-# #EXTINF:-1 tvg-logo="https://github.com/freeview/iptv/blob/master/logos/hbohits.png",HBO Hits
+# #EXTINF:-1 tvg-logo="https://freeview.github.io/iptv/logos/hbohits.png",HBO Hits
 # http://anevia115.mncnow.id/live/eds/HBOHits/sa_hls/HBOHits.m3u8
  
 # #EXTINF:-1 tvg-logo="https://freeview.github.io/iptv/logos/hbosig.png",HBO Signatures
@@ -130,6 +138,9 @@ https://anevia115.mncnow.id/live/eds/CelestialMovie/sa_hls/CelestialMovie-avc1_1
  
 # #EXTINF:-1 tvg-logo="https://freeview.github.io/iptv/logos/kix.png",KIX Movie
 # https://liveanevia.mncnow.id/live/eds/KIX/sa_hls/KIX-avc1_1000000=7-mp4a_98800_eng=3.m3u8
+
+#EXTINF:-1 tvg-logo="https://freeview.github.io/iptv/logos/disney.png", Disney Channel
+http://ott.artmott.com/DisneyChannel/tracks-v1a1/mono.m3u8
 
 
  

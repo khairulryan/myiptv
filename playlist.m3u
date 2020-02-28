@@ -95,7 +95,7 @@ http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2
 #EXTINF:-1 tvg-logo="noimage.png", Marvel & DC Movies
 http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1.m3u8?_alisec=087789b7c2aa28e701c9e0fb8988e3a0
 
-#EXTINF:-1 tvg-logo="http://files.ott.pm/media/images/channel/2019/01/05/large/20190105211400818946_67.png",Celestial Movie
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://files.ott.pm/media/images/channel/2019/01/05/large/20190105211400818946_67.png",Celestial Movie
 https://anevia115.mncnow.id/live/eds/CelestialMovie/sa_hls/CelestialMovie-avc1_1000000=7-mp4a_66000_eng=2.m3u8
 
 # #EXTINF:-1 tvg-logo="https://cinemaworld.asia/wp-content/uploads/2019/08/CMW-Logo_Gold.png",Cinema World Movie

@@ -1,0 +1,33 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="anc.ph" tvg-name="anc.ph" tvg-type="live" group-title="Filipino" tvg-logo="https://media.tv4.live/anc.ph.png",ANC
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/anc.ph.m3u8
+#EXTINF:-1 tvg-id="animal.planet.ph" tvg-name="animal.planet.ph" tvg-type="live" group-title="Filipino" tvg-logo="https://media.tv4.live/animal.planet.ph.png",Animal Planet
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/animal.planet.ph.m3u8
+#EXTINF:-1 tvg-id="axn.ph" tvg-name="axn.ph" tvg-type="live" group-title="Filipino" tvg-logo="https://media.tv4.live/axn.ph.png",AXN
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/axn.ph.m3u8
+#EXTINF:-1 tvg-id="bein.sports.1.ph" tvg-name="bein.sports.1.ph" tvg-type="live" group-title="Filipino" tvg-logo="https://media.tv4.live/bein.sports.1.ph.png",beIN Sports 1
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/bein.sports.1.ph.m3u8
+#EXTINF:-1 tvg-id="bein.sports.2.ph" tvg-name="bein.sports.2.ph" tvg-type="live" group-title="Filipino" tvg-logo="https://media.tv4.live/bein.sports.2.ph.png",beIN Sports 2
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/bein.sports.2.ph.m3u8
+#EXTINF:-1 tvg-id="bloomberg.ph" tvg-name="bloomberg.ph" tvg-type="live" group-title="Filipino" tvg-logo="https://media.tv4.live/bloomberg.ph.png",Bloomberg
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/bloomberg.ph.m3u8
+#EXTINF:-1 tvg-id="cnn.ph" tvg-name="cnn.ph" tvg-type="live" group-title="Filipino" tvg-logo="https://media.tv4.live/cnn.ph.png",CNN Philippines
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/cnn.ph.m3u8
+#EXTINF:-1 tvg-id="euronews.ph" tvg-name="euronews.ph" tvg-type="live" group-title="Filipino" tvg-logo="https://media.tv4.live/euronews.ph.png",EuroNews
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/euronews.ph.m3u8
+#EXTINF:-1 tvg-id="eurosport.ph" tvg-name="eurosport.ph" tvg-type="live" group-title="Filipino" tvg-logo="https://media.tv4.live/eurosport.ph.png",EuroSport
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/eurosport.ph.m3u8
+#EXTINF:-1 tvg-id="gma.life.ph" tvg-name="gma.life.ph" tvg-type="live" group-title="Filipino" tvg-logo="https://media.tv4.live/gma.life.ph.png",GMA Life
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/gma.life.ph.m3u8
+#EXTINF:-1 tvg-id="gma.news.ph" tvg-name="gma.news.ph" tvg-type="live" group-title="Filipino" tvg-logo="https://media.tv4.live/gma.news.ph.png",GMA News
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/gma.news.ph.m3u8
+#EXTINF:-1 tvg-id="gma.pinoy.ph" tvg-name="gma.pinoy.ph" tvg-type="live" group-title="Filipino" tvg-logo="https://media.tv4.live/gma.pinoy.ph.png",GMA Pinoy
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/gma.pinoy.ph.m3u8
+#EXTINF:-1 tvg-id="history.ph" tvg-name="history.ph" tvg-type="live" group-title="Filipino" tvg-logo="https://media.tv4.live/history.ph.png",History
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/history.ph.m3u8
+#EXTINF:-1 tvg-id="history.2.ph" tvg-name="history.2.ph" tvg-type="live" group-title="Filipino" tvg-logo="https://media.tv4.live/history.2.ph.png",History 2
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/history.2.ph.m3u8
+#EXTINF:-1 tvg-id="tfc.ph" tvg-name="tfc.ph" tvg-type="live" group-title="Filipino" tvg-logo="https://media.tv4.live/tfc.ph.png",TFC
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/tfc.ph.m3u8
+#EXTINF:-1 tvg-id="tv5.monde.ph" tvg-name="tv5.monde.ph" tvg-type="live" group-title="Filipino" tvg-logo="https://media.tv4.live/tv5.monde.ph.png",TV5 Monde
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/tv5.monde.ph.m3u8

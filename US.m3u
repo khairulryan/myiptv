@@ -1,37 +1,37 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="ae.us.eastern.us" tvg-name="ae.us.eastern.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/ae.us.eastern.us.png",A&E (East) US
+#EXTINF:-1 tvg-logo="https://media.tv4.live/ae.us.eastern.us.png",A&E (East) US
 https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/ae.us.eastern.us.m3u8
-#EXTINF:-1 tvg-id="adult.swim.east.us" tvg-name="adult.swim.east.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/adult.swim.east.us.png",Adult Swim
+#EXTINF:-1 tvg-logo="https://media.tv4.live/adult.swim.east.us.png",Adult Swim
 https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/adult.swim.east.us.m3u8
-#EXTINF:-1 tvg-id="amc.eastern.us" tvg-name="amc.eastern.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/amc.eastern.us.png",AMC (East) US
+#EXTINF:-1 tvg-logo="https://media.tv4.live/amc.eastern.us.png",AMC (East) US
 https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/amc.eastern.us.m3u8
-#EXTINF:-1 tvg-id="american.heroes.channel.us" tvg-name="american.heroes.channel.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/american.heroes.channel.us.png",American Heroes Channel
+#EXTINF:-1 tvg-logo="https://media.tv4.live/american.heroes.channel.us.png",American Heroes Channel
 https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/american.heroes.channel.us.m3u8
-#EXTINF:-1 tvg-id="animal.planet.us.east.us" tvg-name="animal.planet.us.east.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/animal.planet.us.east.us.png",Animal Planet (East) US
+#EXTINF:-1 tvg-logo="https://media.tv4.live/animal.planet.us.east.us.png",Animal Planet (East) US
 https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/animal.planet.us.east.us.m3u8
-#EXTINF:-1 tvg-id="aspire.tv.us" tvg-name="aspire.tv.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/aspire.tv.us.png",ASPiRE TV
+#EXTINF:-1 tvg-logo="https://media.tv4.live/aspire.tv.us.png",ASPiRE TV
 https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/aspire.tv.us.m3u8
-#EXTINF:-1 tvg-id="awe.tv.network.us" tvg-name="awe.tv.network.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/awe.tv.network.us.png",AWE TV Network
+#EXTINF:-1 tvg-logo="https://media.tv4.live/awe.tv.network.us.png",AWE TV Network
 https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/awe.tv.network.us.m3u8
-#EXTINF:-1 tvg-id="axs.tv.usa.us" tvg-name="axs.tv.usa.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/axs.tv.usa.us.png",AXS TV
+#EXTINF:-1 tvg-logo="https://media.tv4.live/axs.tv.usa.us.png",AXS TV
 https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/axs.tv.usa.us.m3u8
-#EXTINF:-1 tvg-id="baby.first.tv.us" tvg-name="baby.first.tv.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/baby.first.tv.us.png",Baby Tv US
+#EXTINF:-1 tvg-logo="https://media.tv4.live/baby.first.tv.us.png",Baby Tv US
 https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/baby.first.tv.us.m3u8
-#EXTINF:-1 tvg-id="bbc.america.east.us" tvg-name="bbc.america.east.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/bbc.america.east.us.png",BBC America
+#EXTINF:-1 tvg-logo="https://media.tv4.live/bbc.america.east.us.png",BBC America
 https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/bbc.america.east.us.m3u8
-#EXTINF:-1 tvg-id="bbc.world.north.america.us" tvg-name="bbc.world.north.america.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/bbc.world.north.america.us.png",BBC World North America US
+#EXTINF:-1 tvg-logo="https://media.tv4.live/bbc.world.north.america.us.png",BBC World North America US
 https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/bbc.world.north.america.us.m3u8
-#EXTINF:-1 tvg-id="bet.eastern.us" tvg-name="bet.eastern.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/bet.eastern.us.png",Bet (East)
+#EXTINF:-1 tvg-logo="https://media.tv4.live/bet.eastern.us.png",Bet (East)
 https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/bet.eastern.us.m3u8
-#EXTINF:-1 tvg-id="bet.her.us" tvg-name="bet.her.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/bet.her.us.png",Bet Her US
+#EXTINF:-1 tvg-logo="https://media.tv4.live/bet.her.us.png",Bet Her US
 https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/bet.her.us.m3u8
-#EXTINF:-1 tvg-id="bet.jams.us" tvg-name="bet.jams.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/bet.jams.us.png",BET Jams
+#EXTINF:-1 tvg-logo="https://media.tv4.live/bet.jams.us.png",BET Jams
 https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/bet.jams.us.m3u8
-#EXTINF:-1 tvg-id="bet.soul.us" tvg-name="bet.soul.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/bet.soul.us.png",BET Soul
+#EXTINF:-1 tvg-logo="https://media.tv4.live/bet.soul.us.png",BET Soul
 https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/bet.soul.us.m3u8
-#EXTINF:-1 tvg-id="big.ten.network.us" tvg-name="big.ten.network.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/big.ten.network.us.png",Big Ten Network US
+#EXTINF:-1 tvg-logo="https://media.tv4.live/big.ten.network.us.png",Big Ten Network US
 https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/big.ten.network.us.m3u8
-#EXTINF:-1 tvg-id="bloomberg.tv.usa.us" tvg-name="bloomberg.tv.usa.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/bloomberg.tv.usa.us.png",Bloomberg US
+#EXTINF:-1 tvg-logo="https://media.tv4.live/bloomberg.tv.usa.us.png",Bloomberg US
 https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/bloomberg.tv.usa.us.m3u8
 #EXTINF:-1 tvg-id="boomerang.us" tvg-name="boomerang.us" tvg-type="live" group-title="US" tvg-logo="https://media.tv4.live/boomerang.us.png",Boomerang
 https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/boomerang.us.m3u8

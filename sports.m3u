@@ -1,0 +1,699 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="acc.network.us" tvg-name="acc.network.us" tvg-type="live" group-title="Sports" tvg-logo="https://media.tv4.live/acc.network.us.png",ACC Network US
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/acc.network.us.m3u8
+#EXTINF:-1 tvg-id="afl.au" tvg-name="afl.au" tvg-type="live" group-title="Sports" tvg-logo="https://media.tv4.live/afl.au.png",AFL 24/7
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/afl.au.m3u8
+#EXTINF:-1 tvg-id="att.sportsnet.southwest.houston.us" tvg-name="att.sportsnet.southwest.houston.us" tvg-type="live" group-title="Sports" tvg-logo="https://media.tv4.live/att.sportsnet.southwest.houston.us.png",AT&T Sportsnet Southwest
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/att.sportsnet.southwest.houston.us.m3u8
+#EXTINF:-1 tvg-id="bein.sports.1.us" tvg-name="bein.sports.1.us" tvg-type="live" group-title="Sports" tvg-logo="https://media.tv4.live/bein.sports.1.us.png",beIN Sports 1 US
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/bein.sports.1.us.m3u8
+#EXTINF:-1 tvg-id="bein.sports.4.us" tvg-name="bein.sports.4.us" tvg-type="live" group-title="Sports" tvg-logo="https://media.tv4.live/bein.sports.4.us.png",beIN Sports 4 US
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/bein.sports.4.us.m3u8
+#EXTINF:-1 tvg-id="bein.sports.5.us" tvg-name="bein.sports.5.us" tvg-type="live" group-title="Sports" tvg-logo="https://media.tv4.live/bein.sports.5.us.png",beIN Sports 5 US
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/bein.sports.5.us.m3u8
+#EXTINF:-1 tvg-id="bein.sports.6.us" tvg-name="bein.sports.6.us" tvg-type="live" group-title="Sports" tvg-logo="https://media.tv4.live/bein.sports.6.us.png",beIN Sports 6 US
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/bein.sports.6.us.m3u8
+#EXTINF:-1 tvg-id="bein.sports.7.us" tvg-name="bein.sports.7.us" tvg-type="live" group-title="Sports" tvg-logo="https://media.tv4.live/bein.sports.7.us.png",beIN Sports 7 US
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/bein.sports.7.us.m3u8
+#EXTINF:-1 tvg-id="bein.sports.8.us" tvg-name="bein.sports.8.us" tvg-type="live" group-title="Sports" tvg-logo="https://media.tv4.live/bein.sports.8.us.png",beIN Sports 8 US
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/bein.sports.8.us.m3u8
+#EXTINF:-1 tvg-id="bein.sports.liga.us" tvg-name="bein.sports.liga.us" tvg-type="live" group-title="Sports" tvg-logo="https://media.tv4.live/bein.sports.liga.us.png",beIN Sports Liga US
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/bein.sports.liga.us.m3u8
+#EXTINF:-1 tvg-id="big.ten.network.us" tvg-name="big.ten.network.us" tvg-type="live" group-title="Sports" tvg-logo="https://media.tv4.live/big.ten.network.us.png",Big Ten Network US
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/big.ten.network.us.m3u8
+#EXTINF:-1 tvg-id="boxnation.uk" tvg-name="boxnation.uk" tvg-type="live" group-title="Sports" tvg-logo="https://media.tv4.live/boxnation.uk.png",Box Nation UK
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/boxnation.uk.m3u8
+#EXTINF:-1 tvg-id="bt.sport.1.uk" tvg-name="bt.sport.1.uk" tvg-type="live" group-title="Sports" tvg-logo="https://media.tv4.live/bt.sport.1.uk.png",BT Sport 1 UK
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/bt.sport.1.uk.m3u8
+#EXTINF:-1 tvg-id="bt.sport.2.uk" tvg-name="bt.sport.2.uk" tvg-type="live" group-title="Sports" tvg-logo="https://media.tv4.live/bt.sport.2.uk.png",BT Sport 2 UK
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/bt.sport.2.uk.m3u8
+#EXTINF:-1 tvg-id="bt.sport.3.uk" tvg-name="bt.sport.3.uk" tvg-type="live" group-title="Sports" tvg-logo="https://media.tv4.live/bt.sport.3.uk.png",BT Sport 3 UK
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/bt.sport.3.uk.m3u8
+#EXTINF:-1 tvg-id="bt.sport.espn.uk" tvg-name="bt.sport.espn.uk" tvg-type="live" group-title="Sports" tvg-logo="https://media.tv4.live/bt.sport.espn.uk.png",BT Sport ESPN UK
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/bt.sport.espn.uk.m3u8
+#EXTINF:-1 tvg-id="cbs.sports.network.usa.us" tvg-name="cbs.sports.network.usa.us" tvg-type="live" group-title="Sports" tvg-logo="https://media.tv4.live/cbs.sports.network.usa.us.png",CBS Sports Network
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/cbs.sports.network.usa.us.m3u8
+#EXTINF:-1 tvg-id="dazn.1.de" tvg-name="dazn.1.de" tvg-type="live" group-title="Sports" tvg-logo="https://media.tv4.live/dazn.1.de.png",DAZN 1 DE
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/dazn.1.de.m3u8
+#EXTINF:-1 tvg-id="dazn.2.de" tvg-name="dazn.2.de" tvg-type="live" group-title="Sports" tvg-logo="https://media.tv4.live/dazn.2.de.png",DAZN 2 DE
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/dazn.2.de.m3u8
+#EXTINF:-1 tvg-id="eir.sports.1.uk" tvg-name="eir.sports.1.uk" tvg-type="live" group-title="Sports" tvg-logo="https://media.tv4.live/eir.sports.1.uk.png",EIR Sports 1 UK
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/eir.sports.1.uk.m3u8
+#EXTINF:-1 tvg-id="eir.sports.2.uk" tvg-name="eir.sports.2.uk" tvg-type="live" group-title="Sports" tvg-logo="https://media.tv4.live/eir.sports.2.uk.png",EIR Sports 2 UK
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/eir.sports.2.uk.m3u8
+#EXTINF:-1 tvg-id="espn.news.us" tvg-name="espn.news.us" tvg-type="live" group-title="Sports" tvg-logo="https://media.tv4.live/espn.news.us.png",ESPN News US
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/espn.news.us.m3u8
+#EXTINF:-1 tvg-id="espn.us" tvg-name="espn.us" tvg-type="live" group-title="Sports" tvg-logo="https://media.tv4.live/espn.us.png",ESPN US
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/espn.us.m3u8
+#EXTINF:-1 tvg-id="eurosport.1.uk" tvg-name="eurosport.1.uk" tvg-type="live" group-title="Sports" tvg-logo="https://media.tv4.live/eurosport.1.uk.png",Eurosport 1 UK
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/eurosport.1.uk.m3u8
+#EXTINF:-1 tvg-id="eurosport.2.uk" tvg-name="eurosport.2.uk" tvg-type="live" group-title="Sports" tvg-logo="https://media.tv4.live/eurosport.2.uk.png",Eurosport 2 UK
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/eurosport.2.uk.m3u8
+#EXTINF:-1 tvg-id="fight.network.canada.ca" tvg-name="fight.network.canada.ca" tvg-type="live" group-title="Sports" tvg-logo="https://media.tv4.live/fight.network.canada.ca.png",Fight Network CA
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/fight.network.canada.ca.m3u8
+#EXTINF:-1 tvg-id="fox.deportes.us" tvg-name="fox.deportes.us" tvg-type="live" group-title="Sports" tvg-logo="https://media.tv4.live/fox.deportes.us.png",Fox Deportes
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/fox.deportes.us.m3u8
+#EXTINF:-1 tvg-id="fox.sports.1.us" tvg-name="fox.sports.1.us" tvg-type="live" group-title="Sports" tvg-logo="https://media.tv4.live/fox.sports.1.us.png",Fox Sports 1
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/fox.sports.1.us.m3u8
+#EXTINF:-1 tvg-id="fox.sports.2.us" tvg-name="fox.sports.2.us" tvg-type="live" group-title="Sports" tvg-logo="https://media.tv4.live/fox.sports.2.us.png",Fox Sports 2
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/fox.sports.2.us.m3u8
+#EXTINF:-1 tvg-id="fox.sports.arizona.plus.us" tvg-name="fox.sports.arizona.plus.us" tvg-type="live" group-title="Sports" tvg-logo="https://media.tv4.live/fox.sports.arizona.plus.us.png",Fox Sports Arizona Plus
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/fox.sports.arizona.plus.us.m3u8
+#EXTINF:-1 tvg-id="fox.sports.arizona.us" tvg-name="fox.sports.arizona.us" tvg-type="live" group-title="Sports" tvg-logo="https://media.tv4.live/fox.sports.arizona.us.png",Fox Sports Arizona US
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/fox.sports.arizona.us.m3u8
+#EXTINF:-1 tvg-id="fox.sports.south.carolinas.us" tvg-name="fox.sports.south.carolinas.us" tvg-type="live" group-title="Sports" tvg-logo="https://media.tv4.live/fox.sports.south.carolinas.us.png",Fox Sports Carolinas US
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/fox.sports.south.carolinas.us.m3u8
+#EXTINF:-1 tvg-id="fox.sports.detroit.plus.us" tvg-name="fox.sports.detroit.plus.us" tvg-type="live" group-title="Sports" tvg-logo="https://media.tv4.live/fox.sports.detroit.plus.us.png",Fox Sports Detroit Plus US
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/fox.sports.detroit.plus.us.m3u8
+#EXTINF:-1 tvg-id="fox.sports.detroit.us" tvg-name="fox.sports.detroit.us" tvg-type="live" group-title="Sports" tvg-logo="https://media.tv4.live/fox.sports.detroit.us.png",Fox Sports Detroit US
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/fox.sports.detroit.us.m3u8
+#EXTINF:-1 tvg-id="fox.sports.florida.us" tvg-name="fox.sports.florida.us" tvg-type="live" group-title="Sports" tvg-logo="https://media.tv4.live/fox.sports.florida.us.png",Fox Sports Florida US
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/fox.sports.florida.us.m3u8
+#EXTINF:-1 tvg-id="fox.sports.indiana.plus.us" tvg-name="fox.sports.indiana.plus.us" tvg-type="live" group-title="Sports" tvg-logo="https://media.tv4.live/fox.sports.indiana.plus.us.png",Fox Sports Indiana Plus US
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/fox.sports.indiana.plus.us.m3u8
+#EXTINF:-1 tvg-id="fox.sports.indiana.us" tvg-name="fox.sports.indiana.us" tvg-type="live" group-title="Sports" tvg-logo="https://media.tv4.live/fox.sports.indiana.us.png",Fox Sports Indiana US
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/fox.sports.indiana.us.m3u8
+#EXTINF:-1 tvg-id="fox.sports.midwest.kansas.city.plus.us" tvg-name="fox.sports.midwest.kansas.city.plus.us" tvg-type="live" group-title="Sports" tvg-logo="https://media.tv4.live/fox.sports.midwest.kansas.city.plus.us.png",Fox Sports Kansas City Plus US
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/fox.sports.midwest.kansas.city.plus.us.m3u8
+#EXTINF:-1 tvg-id="fox.sports.midwest.kansas.city.us" tvg-name="fox.sports.midwest.kansas.city.us" tvg-type="live" group-title="Sports" tvg-logo="https://media.tv4.live/fox.sports.midwest.kansas.city.us.png",Fox Sports Midwest Kansas City
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/fox.sports.midwest.kansas.city.us.m3u8
+#EXTINF:-1 tvg-id="fox.sports.midwest.us" tvg-name="fox.sports.midwest.us" tvg-type="live" group-title="Sports" tvg-logo="https://media.tv4.live/fox.sports.midwest.us.png",Fox Sports Midwest US
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/fox.sports.midwest.us.m3u8
+#EXTINF:-1 tvg-id="fox.sports.new.orleans.plus.us" tvg-name="fox.sports.new.orleans.plus.us" tvg-type="live" group-title="Sports" tvg-logo="https://media.tv4.live/fox.sports.new.orleans.plus.us.png",Fox Sports New Orleans Plus US
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/fox.sports.new.orleans.plus.us.m3u8
+#EXTINF:-1 tvg-id="fox.sports.new.orleans.us" tvg-name="fox.sports.new.orleans.us" tvg-type="live" group-title="Sports" tvg-logo="https://media.tv4.live/fox.sports.new.orleans.us.png",Fox Sports New Orleans US
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/fox.sports.new.orleans.us.m3u8
+#EXTINF:-1 tvg-id="fox.sports.north.us" tvg-name="fox.sports.north.us" tvg-type="live" group-title="Sports" tvg-logo="https://media.tv4.live/fox.sports.north.us.png",Fox Sports North US
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/fox.sports.north.us.m3u8
+#EXTINF:-1 tvg-id="fox.sports.ohio.plus.us" tvg-name="fox.sports.ohio.plus.us" tvg-type="live" group-title="Sports" tvg-logo="https://media.tv4.live/fox.sports.ohio.plus.us.png",Fox Sports Ohio Plus US
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/fox.sports.ohio.plus.us.m3u8
+#EXTINF:-1 tvg-id="fox.sports.ohio.us" tvg-name="fox.sports.ohio.us" tvg-type="live" group-title="Sports" tvg-logo="https://media.tv4.live/fox.sports.ohio.us.png",Fox Sports Ohio US
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/fox.sports.ohio.us.m3u8
+#EXTINF:-1 tvg-id="fox.sports.oklahoma.plus.us" tvg-name="fox.sports.oklahoma.plus.us" tvg-type="live" group-title="Sports" tvg-logo="https://media.tv4.live/fox.sports.oklahoma.plus.us.png",Fox Sports Oklahoma Plus
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/fox.sports.oklahoma.plus.us.m3u8
+#EXTINF:-1 tvg-id="fox.sports.oklahoma.us" tvg-name="fox.sports.oklahoma.us" tvg-type="live" group-title="Sports" tvg-logo="https://media.tv4.live/fox.sports.oklahoma.us.png",Fox Sports Oklahoma US
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/fox.sports.oklahoma.us.m3u8
+#EXTINF:-1 tvg-id="fox.sports.west.prime.ticket.us" tvg-name="fox.sports.west.prime.ticket.us" tvg-type="live" group-title="Sports" tvg-logo="https://media.tv4.live/fox.sports.west.prime.ticket.us.png",Fox Sports Prime Ticket US
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/fox.sports.west.prime.ticket.us.m3u8
+#EXTINF:-1 tvg-id="fox.sports.san.diego.us" tvg-name="fox.sports.san.diego.us" tvg-type="live" group-title="Sports" tvg-logo="https://media.tv4.live/fox.sports.san.diego.us.png",Fox Sports San Diego US
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/fox.sports.san.diego.us.m3u8
+#EXTINF:-1 tvg-id="fox.sports.south.us" tvg-name="fox.sports.south.us" tvg-type="live" group-title="Sports" tvg-logo="https://media.tv4.live/fox.sports.south.us.png",Fox Sports South US
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/fox.sports.south.us.m3u8
+#EXTINF:-1 tvg-id="fox.sports.southeast.us" tvg-name="fox.sports.southeast.us" tvg-type="live" group-title="Sports" tvg-logo="https://media.tv4.live/fox.sports.southeast.us.png",Fox Sports Southeast US
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/fox.sports.southeast.us.m3u8
+#EXTINF:-1 tvg-id="fox.sports.southwest.plus.dallas.us" tvg-name="fox.sports.southwest.plus.dallas.us" tvg-type="live" group-title="Sports" tvg-logo="https://media.tv4.live/fox.sports.southwest.plus.dallas.us.png",Fox Sports Southwest Plus US
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/fox.sports.southwest.plus.dallas.us.m3u8
+#EXTINF:-1 tvg-id="fox.sports.southwest.us" tvg-name="fox.sports.southwest.us" tvg-type="live" group-title="Sports" tvg-logo="https://media.tv4.live/fox.sports.southwest.us.png",Fox Sports Southwest US
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/fox.sports.southwest.us.m3u8
+#EXTINF:-1 tvg-id="fox.sports.sun.lightningmagic.us" tvg-name="fox.sports.sun.lightningmagic.us" tvg-type="live" group-title="Sports" tvg-logo="https://media.tv4.live/fox.sports.sun.lightningmagic.us.png",Fox Sports Sun Lightning/Magic US
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/fox.sports.sun.lightningmagic.us.m3u8
+#EXTINF:-1 tvg-id="fox.sports.southeast.tennessee.us" tvg-name="fox.sports.southeast.tennessee.us" tvg-type="live" group-title="Sports" tvg-logo="https://media.tv4.live/fox.sports.southeast.tennessee.us.png",Fox Sports Tennessee US
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/fox.sports.southeast.tennessee.us.m3u8
+#EXTINF:-1 tvg-id="fox.sports.west.us" tvg-name="fox.sports.west.us" tvg-type="live" group-title="Sports" tvg-logo="https://media.tv4.live/fox.sports.west.us.png",Fox Sports West US
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/fox.sports.west.us.m3u8
+#EXTINF:-1 tvg-id="fox.sports.wisconsin.plus.us" tvg-name="fox.sports.wisconsin.plus.us" tvg-type="live" group-title="Sports" tvg-logo="https://media.tv4.live/fox.sports.wisconsin.plus.us.png",Fox Sports Wisconsin Plus US
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/fox.sports.wisconsin.plus.us.m3u8
+#EXTINF:-1 tvg-id="fox.sports.wisconsin.us" tvg-name="fox.sports.wisconsin.us" tvg-type="live" group-title="Sports" tvg-logo="https://media.tv4.live/fox.sports.wisconsin.us.png",Fox Sports Wisconsin US
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/fox.sports.wisconsin.us.m3u8
+#EXTINF:-1 tvg-id="freesports.uk" tvg-name="freesports.uk" tvg-type="live" group-title="Sports" tvg-logo="https://media.tv4.live/freesports.uk.png",FreeSports
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/freesports.uk.m3u8
+#EXTINF:-1 tvg-id="fubo.sports.us" tvg-name="fubo.sports.us" tvg-type="live" group-title="Sports" tvg-logo="https://media.tv4.live/fubo.sports.us.png",Fubo Sports
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/fubo.sports.us.m3u8
+#EXTINF:-1 tvg-id="ginx.esports.tv.canada.us" tvg-name="ginx.esports.tv.canada.us" tvg-type="live" group-title="Sports" tvg-logo="https://media.tv4.live/ginx.esports.tv.canada.us.png",Ginx eSports TV CA
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/ginx.esports.tv.canada.us.m3u8
+#EXTINF:-1 tvg-id="golf.channel.canada.ca" tvg-name="golf.channel.canada.ca" tvg-type="live" group-title="Sports" tvg-logo="https://media.tv4.live/golf.channel.canada.ca.png",Golf Channel CA
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/golf.channel.canada.ca.m3u8
+#EXTINF:-1 tvg-id="golf.channel.usa.us" tvg-name="golf.channel.usa.us" tvg-type="live" group-title="Sports" tvg-logo="https://media.tv4.live/golf.channel.usa.us.png",Golf Channel US
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/golf.channel.usa.us.m3u8
+#EXTINF:-1 tvg-id="lfc.uk" tvg-name="lfc.uk" tvg-type="live" group-title="Sports" tvg-logo="https://media.tv4.live/lfc.uk.png",LFC TV UK
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/lfc.uk.m3u8
+#EXTINF:-1 tvg-id="longhorn.network.us" tvg-name="longhorn.network.us" tvg-type="live" group-title="Sports" tvg-logo="https://media.tv4.live/longhorn.network.us.png",Longhorn Network US
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/longhorn.network.us.m3u8
+#EXTINF:-1 tvg-id="mlb.network.strike.zone.us" tvg-name="mlb.network.strike.zone.us" tvg-type="live" group-title="Sports" tvg-logo="https://media.tv4.live/mlb.network.strike.zone.us.png",MLB Network Strike Zone US
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/mlb.network.strike.zone.us.m3u8
+#EXTINF:-1 tvg-id="mlb.network.us" tvg-name="mlb.network.us" tvg-type="live" group-title="Sports" tvg-logo="https://media.tv4.live/mlb.network.us.png",MLB Network US
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/mlb.network.us.m3u8
+#EXTINF:-1 tvg-id="motorsport.tv.uk" tvg-name="motorsport.tv.uk" tvg-type="live" group-title="Sports" tvg-logo="https://media.tv4.live/motorsport.tv.uk.png",Motor Sport TV UK
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/motorsport.tv.uk.m3u8
+#EXTINF:-1 tvg-id="msg.2.plus.us" tvg-name="msg.2.plus.us" tvg-type="live" group-title="Sports" tvg-logo="https://media.tv4.live/msg.2.plus.us.png",MSG 2 Plus US
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/msg.2.plus.us.m3u8
+#EXTINF:-1 tvg-id="msg.2.us" tvg-name="msg.2.us" tvg-type="live" group-title="Sports" tvg-logo="https://media.tv4.live/msg.2.us.png",MSG 2 US
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/msg.2.us.m3u8
+#EXTINF:-1 tvg-id="msg.plus.us" tvg-name="msg.plus.us" tvg-type="live" group-title="Sports" tvg-logo="https://media.tv4.live/msg.plus.us.png",MSG Plus US
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/msg.plus.us.m3u8
+#EXTINF:-1 tvg-id="msg.us" tvg-name="msg.us" tvg-type="live" group-title="Sports" tvg-logo="https://media.tv4.live/msg.us.png",MSG US
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/msg.us.m3u8
+#EXTINF:-1 tvg-id="mutv.uk" tvg-name="mutv.uk" tvg-type="live" group-title="Sports" tvg-logo="https://media.tv4.live/mutv.uk.png",MUTV UK
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/mutv.uk.m3u8
+#EXTINF:-1 tvg-id="nba.tv.usa.us" tvg-name="nba.tv.usa.us" tvg-type="live" group-title="Sports" tvg-logo="https://media.tv4.live/nba.tv.usa.us.png",NBA TV US
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/nba.tv.usa.us.m3u8
+#EXTINF:-1 tvg-id="nbc.sports.bay.area.us" tvg-name="nbc.sports.bay.area.us" tvg-type="live" group-title="Sports" tvg-logo="https://media.tv4.live/nbc.sports.bay.area.us.png",NBC Sports Bay Area US
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/nbc.sports.bay.area.us.m3u8
+#EXTINF:-1 tvg-id="nbc.sports.boston.us" tvg-name="nbc.sports.boston.us" tvg-type="live" group-title="Sports" tvg-logo="https://media.tv4.live/nbc.sports.boston.us.png",NBC Sports Boston US
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/nbc.sports.boston.us.m3u8
+#EXTINF:-1 tvg-id="nbc.sports.california.us" tvg-name="nbc.sports.california.us" tvg-type="live" group-title="Sports" tvg-logo="https://media.tv4.live/nbc.sports.california.us.png",NBC Sports California US
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/nbc.sports.california.us.m3u8
+#EXTINF:-1 tvg-id="nbc.sports.chicago.us" tvg-name="nbc.sports.chicago.us" tvg-type="live" group-title="Sports" tvg-logo="https://media.tv4.live/nbc.sports.chicago.us.png",NBC Sports Chicago US
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/nbc.sports.chicago.us.m3u8
+#EXTINF:-1 tvg-id="nbc.sports.network.us" tvg-name="nbc.sports.network.us" tvg-type="live" group-title="Sports" tvg-logo="https://media.tv4.live/nbc.sports.network.us.png",NBC Sports Network US
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/nbc.sports.network.us.m3u8
+#EXTINF:-1 tvg-id="nbc.sports.northwest.us" tvg-name="nbc.sports.northwest.us" tvg-type="live" group-title="Sports" tvg-logo="https://media.tv4.live/nbc.sports.northwest.us.png",NBC Sports North West US
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/nbc.sports.northwest.us.m3u8
+#EXTINF:-1 tvg-id="nbc.sports.philadelphia.us" tvg-name="nbc.sports.philadelphia.us" tvg-type="live" group-title="Sports" tvg-logo="https://media.tv4.live/nbc.sports.philadelphia.us.png",NBC Sports Philadelphia US
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/nbc.sports.philadelphia.us.m3u8
+#EXTINF:-1 tvg-id="nbc.sports.washington.us" tvg-name="nbc.sports.washington.us" tvg-type="live" group-title="Sports" tvg-logo="https://media.tv4.live/nbc.sports.washington.us.png",NBC Sports Washington US
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/nbc.sports.washington.us.m3u8
+#EXTINF:-1 tvg-id="new.england.sports.network.plus.us" tvg-name="new.england.sports.network.plus.us" tvg-type="live" group-title="Sports" tvg-logo="https://media.tv4.live/new.england.sports.network.plus.us.png",New England Sports Network Plus
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/new.england.sports.network.plus.us.m3u8
+#EXTINF:-1 tvg-id="new.england.sports.network.us" tvg-name="new.england.sports.network.us" tvg-type="live" group-title="Sports" tvg-logo="https://media.tv4.live/new.england.sports.network.us.png",New England Sports Network US
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/new.england.sports.network.us.m3u8
+#EXTINF:-1 tvg-id="nfl.network.us" tvg-name="nfl.network.us" tvg-type="live" group-title="Sports" tvg-logo="https://media.tv4.live/nfl.network.us.png",NFL Network US
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/nfl.network.us.m3u8
+#EXTINF:-1 tvg-id="nhl.network.usa.us" tvg-name="nhl.network.usa.us" tvg-type="live" group-title="Sports" tvg-logo="https://media.tv4.live/nhl.network.usa.us.png",NHL Network US
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/nhl.network.usa.us.m3u8
+#EXTINF:-1 tvg-id="nhl.network.usa.alternate.us" tvg-name="nhl.network.usa.alternate.us" tvg-type="live" group-title="Sports" tvg-logo="https://media.tv4.live/nhl.network.usa.alternate.us.png",NHL Network US Alternate
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/nhl.network.usa.alternate.us.m3u8
+#EXTINF:-1 tvg-id="nrl.au" tvg-name="nrl.au" tvg-type="live" group-title="Sports" tvg-logo="https://media.tv4.live/nrl.au.png",NRL 24/7
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/nrl.au.m3u8
+#EXTINF:-1 tvg-id="olympic.channel.us" tvg-name="olympic.channel.us" tvg-type="live" group-title="Sports" tvg-logo="https://media.tv4.live/olympic.channel.us.png",Olympic Channel
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/olympic.channel.us.m3u8
+#EXTINF:-1 tvg-id="outside.television.us" tvg-name="outside.television.us" tvg-type="live" group-title="Sports" tvg-logo="https://media.tv4.live/outside.television.us.png",Outside
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/outside.television.us.m3u8
+#EXTINF:-1 tvg-id="pac.12.arizona.us" tvg-name="pac.12.arizona.us" tvg-type="live" group-title="Sports" tvg-logo="https://media.tv4.live/pac.12.arizona.us.png",Pac12 Arizona
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/pac.12.arizona.us.m3u8
+#EXTINF:-1 tvg-id="pac.12.bay.area.us" tvg-name="pac.12.bay.area.us" tvg-type="live" group-title="Sports" tvg-logo="https://media.tv4.live/pac.12.bay.area.us.png",Pac12 Bay Area
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/pac.12.bay.area.us.m3u8
+#EXTINF:-1 tvg-id="pac.12.la.us" tvg-name="pac.12.la.us" tvg-type="live" group-title="Sports" tvg-logo="https://media.tv4.live/pac.12.la.us.png",Pac12 LA
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/pac.12.la.us.m3u8
+#EXTINF:-1 tvg-id="pac.12.mountain.us" tvg-name="pac.12.mountain.us" tvg-type="live" group-title="Sports" tvg-logo="https://media.tv4.live/pac.12.mountain.us.png",Pac12 Mountain
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/pac.12.mountain.us.m3u8
+#EXTINF:-1 tvg-id="pac.12.network.us" tvg-name="pac.12.network.us" tvg-type="live" group-title="Sports" tvg-logo="https://media.tv4.live/pac.12.network.us.png",Pac12 Network
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/pac.12.network.us.m3u8
+#EXTINF:-1 tvg-id="pac.12.oregon.us" tvg-name="pac.12.oregon.us" tvg-type="live" group-title="Sports" tvg-logo="https://media.tv4.live/pac.12.oregon.us.png",Pac12 Oregon
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/pac.12.oregon.us.m3u8
+#EXTINF:-1 tvg-id="pac.12.washington.us" tvg-name="pac.12.washington.us" tvg-type="live" group-title="Sports" tvg-logo="https://media.tv4.live/pac.12.washington.us.png",Pac12 Washington
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/pac.12.washington.us.m3u8
+#EXTINF:-1 tvg-id="premier.1.uk" tvg-name="premier.1.uk" tvg-type="live" group-title="Sports" tvg-logo="https://media.tv4.live/premier.1.uk.png",Premier 1 UK
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/premier.1.uk.m3u8
+#EXTINF:-1 tvg-id="premier.2.uk" tvg-name="premier.2.uk" tvg-type="live" group-title="Sports" tvg-logo="https://media.tv4.live/premier.2.uk.png",Premier 2 UK
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/premier.2.uk.m3u8
+#EXTINF:-1 tvg-id="racing.tv.uk" tvg-name="racing.tv.uk" tvg-type="live" group-title="Sports" tvg-logo="https://media.tv4.live/racing.tv.uk.png",Racing UK
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/racing.tv.uk.m3u8
+#EXTINF:-1 tvg-id="sec.network.us" tvg-name="sec.network.us" tvg-type="live" group-title="Sports" tvg-logo="https://media.tv4.live/sec.network.us.png",SEC Network US
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/sec.network.us.m3u8
+#EXTINF:-1 tvg-id="sky.sport.1.it" tvg-name="sky.sport.1.it" tvg-type="live" group-title="Sports" tvg-logo="https://media.tv4.live/sky.sport.1.it.png",Sky Sport 1 IT
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/sky.sport.1.it.m3u8
+#EXTINF:-1 tvg-id="sky.sport.2.it" tvg-name="sky.sport.2.it" tvg-type="live" group-title="Sports" tvg-logo="https://media.tv4.live/sky.sport.2.it.png",Sky Sport 2 IT
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/sky.sport.2.it.m3u8
+#EXTINF:-1 tvg-id="sky.sport.24.it" tvg-name="sky.sport.24.it" tvg-type="live" group-title="Sports" tvg-logo="https://media.tv4.live/sky.sport.24.it.png",Sky Sport 24 IT
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/sky.sport.24.it.m3u8
+#EXTINF:-1 tvg-id="sky.sport.arena.it" tvg-name="sky.sport.arena.it" tvg-type="live" group-title="Sports" tvg-logo="https://media.tv4.live/sky.sport.arena.it.png",Sky Sport Area IT
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/sky.sport.arena.it.m3u8
+#EXTINF:-1 tvg-id="sky.sport.football.it" tvg-name="sky.sport.football.it" tvg-type="live" group-title="Sports" tvg-logo="https://media.tv4.live/sky.sport.football.it.png",Sky Sport Football IT
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/sky.sport.football.it.m3u8
+#EXTINF:-1 tvg-id="sky.sport.motogp.it" tvg-name="sky.sport.motogp.it" tvg-type="live" group-title="Sports" tvg-logo="https://media.tv4.live/sky.sport.motogp.it.png",Sky Sport MotoGP IT
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/sky.sport.motogp.it.m3u8
+#EXTINF:-1 tvg-id="sky.sport.serie.a.it" tvg-name="sky.sport.serie.a.it" tvg-type="live" group-title="Sports" tvg-logo="https://media.tv4.live/sky.sport.serie.a.it.png",Sky Sport Serie A IT
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/sky.sport.serie.a.it.m3u8
+#EXTINF:-1 tvg-id="sky.sports.action.uk" tvg-name="sky.sports.action.uk" tvg-type="live" group-title="Sports" tvg-logo="https://media.tv4.live/sky.sports.action.uk.png",Sky Sports Action
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/sky.sports.action.uk.m3u8
+#EXTINF:-1 tvg-id="sky.sports.arena.uk" tvg-name="sky.sports.arena.uk" tvg-type="live" group-title="Sports" tvg-logo="https://media.tv4.live/sky.sports.arena.uk.png",Sky Sports Arena
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/sky.sports.arena.uk.m3u8
+#EXTINF:-1 tvg-id="sky.sports.cricket.uk" tvg-name="sky.sports.cricket.uk" tvg-type="live" group-title="Sports" tvg-logo="https://media.tv4.live/sky.sports.cricket.uk.png",Sky Sports Cricket
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/sky.sports.cricket.uk.m3u8
+#EXTINF:-1 tvg-id="sky.sports.f1.uk" tvg-name="sky.sports.f1.uk" tvg-type="live" group-title="Sports" tvg-logo="https://media.tv4.live/sky.sports.f1.uk.png",Sky Sports F1
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/sky.sports.f1.uk.m3u8
+#EXTINF:-1 tvg-id="sky.sports.football.uk" tvg-name="sky.sports.football.uk" tvg-type="live" group-title="Sports" tvg-logo="https://media.tv4.live/sky.sports.football.uk.png",Sky Sports Football
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/sky.sports.football.uk.m3u8
+#EXTINF:-1 tvg-id="sky.sports.golf.uk" tvg-name="sky.sports.golf.uk" tvg-type="live" group-title="Sports" tvg-logo="https://media.tv4.live/sky.sports.golf.uk.png",Sky Sports Golf
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/sky.sports.golf.uk.m3u8
+#EXTINF:-1 tvg-id="sky.sports.main.event.uk" tvg-name="sky.sports.main.event.uk" tvg-type="live" group-title="Sports" tvg-logo="https://media.tv4.live/sky.sports.main.event.uk.png",Sky Sports Main Event
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/sky.sports.main.event.uk.m3u8
+#EXTINF:-1 tvg-id="sky.sports.mix.uk" tvg-name="sky.sports.mix.uk" tvg-type="live" group-title="Sports" tvg-logo="https://media.tv4.live/sky.sports.mix.uk.png",Sky Sports Mix
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/sky.sports.mix.uk.m3u8
+#EXTINF:-1 tvg-id="sky.sports.news.uk" tvg-name="sky.sports.news.uk" tvg-type="live" group-title="Sports" tvg-logo="https://media.tv4.live/sky.sports.news.uk.png",Sky Sports News
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/sky.sports.news.uk.m3u8
+#EXTINF:-1 tvg-id="sky.sports.premier.league.uk" tvg-name="sky.sports.premier.league.uk" tvg-type="live" group-title="Sports" tvg-logo="https://media.tv4.live/sky.sports.premier.league.uk.png",Sky Sports Premier League
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/sky.sports.premier.league.uk.m3u8
+#EXTINF:-1 tvg-id="sky.sports.racing.uk" tvg-name="sky.sports.racing.uk" tvg-type="live" group-title="Sports" tvg-logo="https://media.tv4.live/sky.sports.racing.uk.png",Sky Sports Racing
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/sky.sports.racing.uk.m3u8
+#EXTINF:-1 tvg-id="sny.sportsnet.new.york.us" tvg-name="sny.sportsnet.new.york.us" tvg-type="live" group-title="Sports" tvg-logo="https://media.tv4.live/sny.sportsnet.new.york.us.png",SNY (SportsNet New York)
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/sny.sportsnet.new.york.us.m3u8
+#EXTINF:-1 tvg-id="spectrum.sportsnet.la.dodgers.us" tvg-name="spectrum.sportsnet.la.dodgers.us" tvg-type="live" group-title="Sports" tvg-logo="https://media.tv4.live/spectrum.sportsnet.la.dodgers.us.png",Spectrum SportsNet LA Dodgers
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/spectrum.sportsnet.la.dodgers.us.m3u8
+#EXTINF:-1 tvg-id="spectrum.sportsnet.la.lakers.us" tvg-name="spectrum.sportsnet.la.lakers.us" tvg-type="live" group-title="Sports" tvg-logo="https://media.tv4.live/spectrum.sportsnet.la.lakers.us.png",Spectrum SportsNet LA Lakers
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/spectrum.sportsnet.la.lakers.us.m3u8
+#EXTINF:-1 tvg-id="sportsnet.360.ca" tvg-name="sportsnet.360.ca" tvg-type="live" group-title="Sports" tvg-logo="https://media.tv4.live/sportsnet.360.ca.png",Sportsnet 360 CA
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/sportsnet.360.ca.m3u8
+#EXTINF:-1 tvg-id="sportsnet.east.ca" tvg-name="sportsnet.east.ca" tvg-type="live" group-title="Sports" tvg-logo="https://media.tv4.live/sportsnet.east.ca.png",Sportsnet East CA
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/sportsnet.east.ca.m3u8
+#EXTINF:-1 tvg-id="sportsnet.one.ca" tvg-name="sportsnet.one.ca" tvg-type="live" group-title="Sports" tvg-logo="https://media.tv4.live/sportsnet.one.ca.png",Sportsnet One CA
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/sportsnet.one.ca.m3u8
+#EXTINF:-1 tvg-id="sportsnet.ontario.ca" tvg-name="sportsnet.ontario.ca" tvg-type="live" group-title="Sports" tvg-logo="https://media.tv4.live/sportsnet.ontario.ca.png",Sportsnet Ontario
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/sportsnet.ontario.ca.m3u8
+#EXTINF:-1 tvg-id="sportsnet.pacific.ca" tvg-name="sportsnet.pacific.ca" tvg-type="live" group-title="Sports" tvg-logo="https://media.tv4.live/sportsnet.pacific.ca.png",Sportsnet Pacific CA
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/sportsnet.pacific.ca.m3u8
+#EXTINF:-1 tvg-id="sportsnet.west.ca" tvg-name="sportsnet.west.ca" tvg-type="live" group-title="Sports" tvg-logo="https://media.tv4.live/sportsnet.west.ca.png",Sportsnet West CA
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/sportsnet.west.ca.m3u8
+#EXTINF:-1 tvg-id="sportsnet.world.ca" tvg-name="sportsnet.world.ca" tvg-type="live" group-title="Sports" tvg-logo="https://media.tv4.live/sportsnet.world.ca.png",Sportsnet World CA
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/sportsnet.world.ca.m3u8
+#EXTINF:-1 tvg-id="stadium.us" tvg-name="stadium.us" tvg-type="live" group-title="Sports" tvg-logo="https://media.tv4.live/stadium.us.png",Stadium
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/stadium.us.m3u8
+#EXTINF:-1 tvg-id="SuperTennis.it" tvg-name="SuperTennis.it" tvg-type="live" group-title="Sports" tvg-logo="https://media.tv4.live/SuperTennis.it.png",Super Tennis IT
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/SuperTennis.it.m3u8
+#EXTINF:-1 tvg-id="supersport.1.ze" tvg-name="supersport.1.ze" tvg-type="live" group-title="Sports" tvg-logo="https://media.tv4.live/supersport.1.ze.png",SuperSport 01 ZE
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/supersport.1.ze.m3u8
+#EXTINF:-1 tvg-id="supersport.2.ze" tvg-name="supersport.2.ze" tvg-type="live" group-title="Sports" tvg-logo="https://media.tv4.live/supersport.2.ze.png",SuperSport 02 ZE
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/supersport.2.ze.m3u8
+#EXTINF:-1 tvg-id="supersport.3.ze" tvg-name="supersport.3.ze" tvg-type="live" group-title="Sports" tvg-logo="https://media.tv4.live/supersport.3.ze.png",SuperSport 03 ZE
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/supersport.3.ze.m3u8
+#EXTINF:-1 tvg-id="supersport.4.ze" tvg-name="supersport.4.ze" tvg-type="live" group-title="Sports" tvg-logo="https://media.tv4.live/supersport.4.ze.png",SuperSport 04 ZE
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/supersport.4.ze.m3u8
+#EXTINF:-1 tvg-id="supersport.5.ze" tvg-name="supersport.5.ze" tvg-type="live" group-title="Sports" tvg-logo="https://media.tv4.live/supersport.5.ze.png",SuperSport 05 ZE
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/supersport.5.ze.m3u8
+#EXTINF:-1 tvg-id="supersport.6.ze" tvg-name="supersport.6.ze" tvg-type="live" group-title="Sports" tvg-logo="https://media.tv4.live/supersport.6.ze.png",SuperSport 06 ZE
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/supersport.6.ze.m3u8
+#EXTINF:-1 tvg-id="supersport.7.ze" tvg-name="supersport.7.ze" tvg-type="live" group-title="Sports" tvg-logo="https://media.tv4.live/supersport.7.ze.png",SuperSport 07 ZE
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/supersport.7.ze.m3u8
+#EXTINF:-1 tvg-id="supersport.8.ze" tvg-name="supersport.8.ze" tvg-type="live" group-title="Sports" tvg-logo="https://media.tv4.live/supersport.8.ze.png",SuperSport 08 ZE
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/supersport.8.ze.m3u8
+#EXTINF:-1 tvg-id="supersport.9.ze" tvg-name="supersport.9.ze" tvg-type="live" group-title="Sports" tvg-logo="https://media.tv4.live/supersport.9.ze.png",SuperSport 09 ZE
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/supersport.9.ze.m3u8
+#EXTINF:-1 tvg-id="supersport.10.ze" tvg-name="supersport.10.ze" tvg-type="live" group-title="Sports" tvg-logo="https://media.tv4.live/supersport.10.ze.png",SuperSport 10 ZE
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/supersport.10.ze.m3u8
+#EXTINF:-1 tvg-id="supersport.11.ze" tvg-name="supersport.11.ze" tvg-type="live" group-title="Sports" tvg-logo="https://media.tv4.live/supersport.11.ze.png",SuperSport 11 ZE
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/supersport.11.ze.m3u8
+#EXTINF:-1 tvg-id="supersport.12.ze" tvg-name="supersport.12.ze" tvg-type="live" group-title="Sports" tvg-logo="https://media.tv4.live/supersport.12.ze.png",SuperSport 12 ZE
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/supersport.12.ze.m3u8
+#EXTINF:-1 tvg-id="supersport.blitz.ze" tvg-name="supersport.blitz.ze" tvg-type="live" group-title="Sports" tvg-logo="https://media.tv4.live/supersport.blitz.ze.png",SuperSport Blitz ZE
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/supersport.blitz.ze.m3u8
+#EXTINF:-1 tvg-id="the.tennis.channel.us" tvg-name="the.tennis.channel.us" tvg-type="live" group-title="Sports" tvg-logo="https://media.tv4.live/the.tennis.channel.us.png",Tennis Channel US
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/the.tennis.channel.us.m3u8
+#EXTINF:-1 tvg-id="tnt.east.us" tvg-name="tnt.east.us" tvg-type="live" group-title="Sports" tvg-logo="https://media.tv4.live/tnt.east.us.png",TNT US
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/tnt.east.us.m3u8
+#EXTINF:-1 tvg-id="tsn1.ca" tvg-name="tsn1.ca" tvg-type="live" group-title="Sports" tvg-logo="https://media.tv4.live/tsn1.ca.png",TSN 1 CA
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/tsn1.ca.m3u8
+#EXTINF:-1 tvg-id="tsn2.ca" tvg-name="tsn2.ca" tvg-type="live" group-title="Sports" tvg-logo="https://media.tv4.live/tsn2.ca.png",TSN 2 CA
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/tsn2.ca.m3u8
+#EXTINF:-1 tvg-id="tsn3.ca" tvg-name="tsn3.ca" tvg-type="live" group-title="Sports" tvg-logo="https://media.tv4.live/tsn3.ca.png",TSN 3 CA
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/tsn3.ca.m3u8
+#EXTINF:-1 tvg-id="tsn4.ca" tvg-name="tsn4.ca" tvg-type="live" group-title="Sports" tvg-logo="https://media.tv4.live/tsn4.ca.png",TSN 4 CA
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/tsn4.ca.m3u8
+#EXTINF:-1 tvg-id="tsn5.ca" tvg-name="tsn5.ca" tvg-type="live" group-title="Sports" tvg-logo="https://media.tv4.live/tsn5.ca.png",TSN 5 CA
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/tsn5.ca.m3u8
+#EXTINF:-1 tvg-id="tudn.us" tvg-name="tudn.us" tvg-type="live" group-title="Sports" tvg-logo="https://media.tv4.live/tudn.us.png",TUDN US
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/tudn.us.m3u8
+#EXTINF:-1 tvg-id="tvg.2.horse.racing.us" tvg-name="tvg.2.horse.racing.us" tvg-type="live" group-title="Sports" tvg-logo="https://media.tv4.live/tvg.2.horse.racing.us.png",TVG 2 Horse Racing US
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/tvg.2.horse.racing.us.m3u8
+#EXTINF:-1 tvg-id="tvg.television.games.network.us" tvg-name="tvg.television.games.network.us" tvg-type="live" group-title="Sports" tvg-logo="https://media.tv4.live/tvg.television.games.network.us.png",TVG Television Games Network US
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/tvg.television.games.network.us.m3u8
+#EXTINF:-1 tvg-id="tyc.sports.us" tvg-name="tyc.sports.us" tvg-type="live" group-title="Sports" tvg-logo="https://media.tv4.live/tyc.sports.us.png",TyC Sports US
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/tyc.sports.us.m3u8
+#EXTINF:-1 tvg-id="willow.cricket.us" tvg-name="willow.cricket.us" tvg-type="live" group-title="Sports" tvg-logo="https://media.tv4.live/willow.cricket.us.png",Willow Cricket
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/willow.cricket.us.m3u8
+#EXTINF:-1 tvg-id="wwe.network.ca" tvg-name="wwe.network.ca" tvg-type="live" group-title="Sports" tvg-logo="https://media.tv4.live/wwe.network.ca.png",WWE Network
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/wwe.network.ca.m3u8
+#EXTINF:-1 tvg-id="yes.network.us" tvg-name="yes.network.us" tvg-type="live" group-title="Sports" tvg-logo="https://media.tv4.live/yes.network.us.png",YES Network
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/yes.network.us.m3u8
+#EXTINF:-1 tvg-id="afl.1.au" tvg-name="afl.1.au" tvg-type="live" group-title="Sports Events 2020" tvg-logo="https://media.tv4.live/afl.1.au.png",AFL 01
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/afl.1.au.m3u8
+#EXTINF:-1 tvg-id="afl.2.au" tvg-name="afl.2.au" tvg-type="live" group-title="Sports Events 2020" tvg-logo="https://media.tv4.live/afl.2.au.png",AFL 02
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/afl.2.au.m3u8
+#EXTINF:-1 tvg-id="afl.3.au" tvg-name="afl.3.au" tvg-type="live" group-title="Sports Events 2020" tvg-logo="https://media.tv4.live/afl.3.au.png",AFL 03
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/afl.3.au.m3u8
+#EXTINF:-1 tvg-id="afl.4.au" tvg-name="afl.4.au" tvg-type="live" group-title="Sports Events 2020" tvg-logo="https://media.tv4.live/afl.4.au.png",AFL 04
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/afl.4.au.m3u8
+#EXTINF:-1 tvg-id="afl.5.au" tvg-name="afl.5.au" tvg-type="live" group-title="Sports Events 2020" tvg-logo="https://media.tv4.live/afl.5.au.png",AFL 05
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/afl.5.au.m3u8
+#EXTINF:-1 tvg-id="afl.6.au" tvg-name="afl.6.au" tvg-type="live" group-title="Sports Events 2020" tvg-logo="https://media.tv4.live/afl.6.au.png",AFL 06
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/afl.6.au.m3u8
+#EXTINF:-1 tvg-id="afl.7.au" tvg-name="afl.7.au" tvg-type="live" group-title="Sports Events 2020" tvg-logo="https://media.tv4.live/afl.7.au.png",AFL 07
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/afl.7.au.m3u8
+#EXTINF:-1 tvg-id="afl.8.au" tvg-name="afl.8.au" tvg-type="live" group-title="Sports Events 2020" tvg-logo="https://media.tv4.live/afl.8.au.png",AFL 08
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/afl.8.au.m3u8
+#EXTINF:-1 tvg-id="afl.9.au" tvg-name="afl.9.au" tvg-type="live" group-title="Sports Events 2020" tvg-logo="https://media.tv4.live/afl.9.au.png",AFL 09
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/afl.9.au.m3u8
+#EXTINF:-1 tvg-id="br.live.1.us" tvg-name="br.live.1.us" tvg-type="live" group-title="Sports Events 2020" tvg-logo="https://media.tv4.live/br.live.1.us.png",BR Live 01
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/br.live.1.us.m3u8
+#EXTINF:-1 tvg-id="br.live.2.us" tvg-name="br.live.2.us" tvg-type="live" group-title="Sports Events 2020" tvg-logo="https://media.tv4.live/br.live.2.us.png",BR Live 02
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/br.live.2.us.m3u8
+#EXTINF:-1 tvg-id="br.live.3.us" tvg-name="br.live.3.us" tvg-type="live" group-title="Sports Events 2020" tvg-logo="https://media.tv4.live/br.live.3.us.png",BR Live 03
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/br.live.3.us.m3u8
+#EXTINF:-1 tvg-id="br.live.4.us" tvg-name="br.live.4.us" tvg-type="live" group-title="Sports Events 2020" tvg-logo="https://media.tv4.live/br.live.4.us.png",BR Live 04
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/br.live.4.us.m3u8
+#EXTINF:-1 tvg-id="br.live.5.us" tvg-name="br.live.5.us" tvg-type="live" group-title="Sports Events 2020" tvg-logo="https://media.tv4.live/br.live.5.us.png",BR Live 05
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/br.live.5.us.m3u8
+#EXTINF:-1 tvg-id="br.live.6.us" tvg-name="br.live.6.us" tvg-type="live" group-title="Sports Events 2020" tvg-logo="https://media.tv4.live/br.live.6.us.png",BR Live 06
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/br.live.6.us.m3u8
+#EXTINF:-1 tvg-id="br.live.7.us" tvg-name="br.live.7.us" tvg-type="live" group-title="Sports Events 2020" tvg-logo="https://media.tv4.live/br.live.7.us.png",BR Live 07
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/br.live.7.us.m3u8
+#EXTINF:-1 tvg-id="br.live.8.us" tvg-name="br.live.8.us" tvg-type="live" group-title="Sports Events 2020" tvg-logo="https://media.tv4.live/br.live.8.us.png",BR Live 08
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/br.live.8.us.m3u8
+#EXTINF:-1 tvg-id="br.live.9.us" tvg-name="br.live.9.us" tvg-type="live" group-title="Sports Events 2020" tvg-logo="https://media.tv4.live/br.live.9.us.png",BR Live 09
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/br.live.9.us.m3u8
+#EXTINF:-1 tvg-id="br.live.10.us" tvg-name="br.live.10.us" tvg-type="live" group-title="Sports Events 2020" tvg-logo="https://media.tv4.live/br.live.10.us.png",BR Live 10
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/br.live.10.us.m3u8
+#EXTINF:-1 tvg-id="br.live.11.us" tvg-name="br.live.11.us" tvg-type="live" group-title="Sports Events 2020" tvg-logo="https://media.tv4.live/br.live.11.us.png",BR Live 11
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/br.live.11.us.m3u8
+#EXTINF:-1 tvg-id="br.live.12.us" tvg-name="br.live.12.us" tvg-type="live" group-title="Sports Events 2020" tvg-logo="https://media.tv4.live/br.live.12.us.png",BR Live 12
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/br.live.12.us.m3u8
+#EXTINF:-1 tvg-id="br.live.13.us" tvg-name="br.live.13.us" tvg-type="live" group-title="Sports Events 2020" tvg-logo="https://media.tv4.live/br.live.13.us.png",BR Live 13
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/br.live.13.us.m3u8
+#EXTINF:-1 tvg-id="br.live.14.us" tvg-name="br.live.14.us" tvg-type="live" group-title="Sports Events 2020" tvg-logo="https://media.tv4.live/br.live.14.us.png",BR Live 14
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/br.live.14.us.m3u8
+#EXTINF:-1 tvg-id="br.live.15.us" tvg-name="br.live.15.us" tvg-type="live" group-title="Sports Events 2020" tvg-logo="https://media.tv4.live/br.live.15.us.png",BR Live 15
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/br.live.15.us.m3u8
+#EXTINF:-1 tvg-id="br.live.16.us" tvg-name="br.live.16.us" tvg-type="live" group-title="Sports Events 2020" tvg-logo="https://media.tv4.live/br.live.16.us.png",BR Live 16
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/br.live.16.us.m3u8
+#EXTINF:-1 tvg-id="br.live.17.us" tvg-name="br.live.17.us" tvg-type="live" group-title="Sports Events 2020" tvg-logo="https://media.tv4.live/br.live.17.us.png",BR Live 17
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/br.live.17.us.m3u8
+#EXTINF:-1 tvg-id="br.live.18.us" tvg-name="br.live.18.us" tvg-type="live" group-title="Sports Events 2020" tvg-logo="https://media.tv4.live/br.live.18.us.png",BR Live 18
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/br.live.18.us.m3u8
+#EXTINF:-1 tvg-id="br.live.19.us" tvg-name="br.live.19.us" tvg-type="live" group-title="Sports Events 2020" tvg-logo="https://media.tv4.live/br.live.19.us.png",BR Live 19
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/br.live.19.us.m3u8
+#EXTINF:-1 tvg-id="br.live.20.us" tvg-name="br.live.20.us" tvg-type="live" group-title="Sports Events 2020" tvg-logo="https://media.tv4.live/br.live.20.us.png",BR Live 20
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/br.live.20.us.m3u8
+#EXTINF:-1 tvg-id="br.live.21.us" tvg-name="br.live.21.us" tvg-type="live" group-title="Sports Events 2020" tvg-logo="https://media.tv4.live/br.live.21.us.png",BR Live 21
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/br.live.21.us.m3u8
+#EXTINF:-1 tvg-id="br.live.22.us" tvg-name="br.live.22.us" tvg-type="live" group-title="Sports Events 2020" tvg-logo="https://media.tv4.live/br.live.22.us.png",BR Live 22
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/br.live.22.us.m3u8
+#EXTINF:-1 tvg-id="br.live.23.us" tvg-name="br.live.23.us" tvg-type="live" group-title="Sports Events 2020" tvg-logo="https://media.tv4.live/br.live.23.us.png",BR Live 23
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/br.live.23.us.m3u8
+#EXTINF:-1 tvg-id="br.live.24.us" tvg-name="br.live.24.us" tvg-type="live" group-title="Sports Events 2020" tvg-logo="https://media.tv4.live/br.live.24.us.png",BR Live 24
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/br.live.24.us.m3u8
+#EXTINF:-1 tvg-id="br.live.25.us" tvg-name="br.live.25.us" tvg-type="live" group-title="Sports Events 2020" tvg-logo="https://media.tv4.live/br.live.25.us.png",BR Live 25
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/br.live.25.us.m3u8
+#EXTINF:-1 tvg-id="bt.sportx.1.uk" tvg-name="bt.sportx.1.uk" tvg-type="live" group-title="Sports Events 2020" tvg-logo="https://media.tv4.live/bt.sportx.1.uk.png",BT SportX 1 UK
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/bt.sportx.1.uk.m3u8
+#EXTINF:-1 tvg-id="bt.sportx.2.uk" tvg-name="bt.sportx.2.uk" tvg-type="live" group-title="Sports Events 2020" tvg-logo="https://media.tv4.live/bt.sportx.2.uk.png",BT SportX 2 UK
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/bt.sportx.2.uk.m3u8
+#EXTINF:-1 tvg-id="bt.sportx.3.uk" tvg-name="bt.sportx.3.uk" tvg-type="live" group-title="Sports Events 2020" tvg-logo="https://media.tv4.live/bt.sportx.3.uk.png",BT SportX 3 UK
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/bt.sportx.3.uk.m3u8
+#EXTINF:-1 tvg-id="bt.sportx.4.uk" tvg-name="bt.sportx.4.uk" tvg-type="live" group-title="Sports Events 2020" tvg-logo="https://media.tv4.live/bt.sportx.4.uk.png",BT SportX 4 UK
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/bt.sportx.4.uk.m3u8
+#EXTINF:-1 tvg-id="bt.sportx.5.uk" tvg-name="bt.sportx.5.uk" tvg-type="live" group-title="Sports Events 2020" tvg-logo="https://media.tv4.live/bt.sportx.5.uk.png",BT SportX 5 UK
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/bt.sportx.5.uk.m3u8
+#EXTINF:-1 tvg-id="bt.sportx.6.uk" tvg-name="bt.sportx.6.uk" tvg-type="live" group-title="Sports Events 2020" tvg-logo="https://media.tv4.live/bt.sportx.6.uk.png",BT SportX 6 UK
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/bt.sportx.6.uk.m3u8
+#EXTINF:-1 tvg-id="bt.sportx.7.uk" tvg-name="bt.sportx.7.uk" tvg-type="live" group-title="Sports Events 2020" tvg-logo="https://media.tv4.live/bt.sportx.7.uk.png",BT SportX 7 UK
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/bt.sportx.7.uk.m3u8
+#EXTINF:-1 tvg-id="inter.tv.it" tvg-name="inter.tv.it" tvg-type="live" group-title="Sports Events 2020" tvg-logo="https://media.tv4.live/inter.tv.it.png",Inter TV
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/inter.tv.it.m3u8
+#EXTINF:-1 tvg-id="milan.tv.it" tvg-name="milan.tv.it" tvg-type="live" group-title="Sports Events 2020" tvg-logo="https://media.tv4.live/milan.tv.it.png",Milan TV IT
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/milan.tv.it.m3u8
+#EXTINF:-1 tvg-id="nfl.red.zone.us" tvg-name="nfl.red.zone.us" tvg-type="live" group-title="Sports Events 2020" tvg-logo="https://media.tv4.live/nfl.red.zone.us.png",NFL RedZone US
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/nfl.red.zone.us.m3u8
+#EXTINF:-1 tvg-id="poker.1.us" tvg-name="poker.1.us" tvg-type="live" group-title="Sports Events 2020" tvg-logo="https://media.tv4.live/poker.1.us.png",Poker Go 01 US
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/poker.1.us.m3u8
+#EXTINF:-1 tvg-id="poker.2.us" tvg-name="poker.2.us" tvg-type="live" group-title="Sports Events 2020" tvg-logo="https://media.tv4.live/poker.2.us.png",Poker Go 02 US
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/poker.2.us.m3u8
+#EXTINF:-1 tvg-id="poker.3.us" tvg-name="poker.3.us" tvg-type="live" group-title="Sports Events 2020" tvg-logo="https://media.tv4.live/poker.3.us.png",Poker Go 03 US
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/poker.3.us.m3u8
+#EXTINF:-1 tvg-id="rangers.tv.uk" tvg-name="rangers.tv.uk" tvg-type="live" group-title="Sports Events 2020" tvg-logo="https://media.tv4.live/rangers.tv.uk.png",Rrangers TV UK
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/rangers.tv.uk.m3u8
+#EXTINF:-1 tvg-id="willow.1.us" tvg-name="willow.1.us" tvg-type="live" group-title="Sports Events 2020" tvg-logo="https://media.tv4.live/willow.1.us.png",Willow 01
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/willow.1.us.m3u8
+#EXTINF:-1 tvg-id="willow.2.us" tvg-name="willow.2.us" tvg-type="live" group-title="Sports Events 2020" tvg-logo="https://media.tv4.live/willow.2.us.png",Willow 02
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/willow.2.us.m3u8
+#EXTINF:-1 tvg-id="willow.3.us" tvg-name="willow.3.us" tvg-type="live" group-title="Sports Events 2020" tvg-logo="https://media.tv4.live/willow.3.us.png",Willow 03
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/willow.3.us.m3u8
+#EXTINF:-1 tvg-id="willow.4.us" tvg-name="willow.4.us" tvg-type="live" group-title="Sports Events 2020" tvg-logo="https://media.tv4.live/willow.4.us.png",Willow 04
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/willow.4.us.m3u8
+#EXTINF:-1 tvg-id="willow.5.us" tvg-name="willow.5.us" tvg-type="live" group-title="Sports Events 2020" tvg-logo="https://media.tv4.live/willow.5.us.png",Willow 05
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/willow.5.us.m3u8
+#EXTINF:-1 tvg-id="acc.network.us" tvg-name="acc.network.us" tvg-type="live" group-title="Sports ESPN" tvg-logo="https://media.tv4.live/acc.network.us.png",ACC Network US
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/acc.network.us.m3u8
+#EXTINF:-1 tvg-id="espn2.us" tvg-name="espn2.us" tvg-type="live" group-title="Sports ESPN" tvg-logo="https://media.tv4.live/espn2.us.png",ESPN 2 US
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/espn2.us.m3u8
+#EXTINF:-1 tvg-id="espn.deportes.us" tvg-name="espn.deportes.us" tvg-type="live" group-title="Sports ESPN" tvg-logo="https://media.tv4.live/espn.deportes.us.png",ESPN Deportes
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/espn.deportes.us.m3u8
+#EXTINF:-1 tvg-id="espn.news.us" tvg-name="espn.news.us" tvg-type="live" group-title="Sports ESPN" tvg-logo="https://media.tv4.live/espn.news.us.png",ESPN News US
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/espn.news.us.m3u8
+#EXTINF:-1 tvg-id="espn.plus.1.us" tvg-name="espn.plus.1.us" tvg-type="live" group-title="Sports ESPN" tvg-logo="https://media.tv4.live/espn.plus.1.us.png",ESPN Plus 01
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/espn.plus.1.us.m3u8
+#EXTINF:-1 tvg-id="espn.plus.2.us" tvg-name="espn.plus.2.us" tvg-type="live" group-title="Sports ESPN" tvg-logo="https://media.tv4.live/espn.plus.2.us.png",ESPN Plus 02
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/espn.plus.2.us.m3u8
+#EXTINF:-1 tvg-id="espn.plus.3.us" tvg-name="espn.plus.3.us" tvg-type="live" group-title="Sports ESPN" tvg-logo="https://media.tv4.live/espn.plus.3.us.png",ESPN Plus 03
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/espn.plus.3.us.m3u8
+#EXTINF:-1 tvg-id="espn.plus.4.us" tvg-name="espn.plus.4.us" tvg-type="live" group-title="Sports ESPN" tvg-logo="https://media.tv4.live/espn.plus.4.us.png",ESPN Plus 04
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/espn.plus.4.us.m3u8
+#EXTINF:-1 tvg-id="espn.plus.5.us" tvg-name="espn.plus.5.us" tvg-type="live" group-title="Sports ESPN" tvg-logo="https://media.tv4.live/espn.plus.5.us.png",ESPN Plus 05
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/espn.plus.5.us.m3u8
+#EXTINF:-1 tvg-id="espn.plus.6.us" tvg-name="espn.plus.6.us" tvg-type="live" group-title="Sports ESPN" tvg-logo="https://media.tv4.live/espn.plus.6.us.png",ESPN Plus 06
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/espn.plus.6.us.m3u8
+#EXTINF:-1 tvg-id="espn.plus.7.us" tvg-name="espn.plus.7.us" tvg-type="live" group-title="Sports ESPN" tvg-logo="https://media.tv4.live/espn.plus.7.us.png",ESPN Plus 07
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/espn.plus.7.us.m3u8
+#EXTINF:-1 tvg-id="espn.plus.8.us" tvg-name="espn.plus.8.us" tvg-type="live" group-title="Sports ESPN" tvg-logo="https://media.tv4.live/espn.plus.8.us.png",ESPN Plus 08
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/espn.plus.8.us.m3u8
+#EXTINF:-1 tvg-id="espn.plus.9.us" tvg-name="espn.plus.9.us" tvg-type="live" group-title="Sports ESPN" tvg-logo="https://media.tv4.live/espn.plus.9.us.png",ESPN Plus 09
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/espn.plus.9.us.m3u8
+#EXTINF:-1 tvg-id="espn.plus.10.us" tvg-name="espn.plus.10.us" tvg-type="live" group-title="Sports ESPN" tvg-logo="https://media.tv4.live/espn.plus.10.us.png",ESPN Plus 10
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/espn.plus.10.us.m3u8
+#EXTINF:-1 tvg-id="espn.plus.11.us" tvg-name="espn.plus.11.us" tvg-type="live" group-title="Sports ESPN" tvg-logo="https://media.tv4.live/espn.plus.11.us.png",ESPN Plus 11
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/espn.plus.11.us.m3u8
+#EXTINF:-1 tvg-id="espn.plus.12.us" tvg-name="espn.plus.12.us" tvg-type="live" group-title="Sports ESPN" tvg-logo="https://media.tv4.live/espn.plus.12.us.png",ESPN Plus 12
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/espn.plus.12.us.m3u8
+#EXTINF:-1 tvg-id="espn.plus.13.us" tvg-name="espn.plus.13.us" tvg-type="live" group-title="Sports ESPN" tvg-logo="https://media.tv4.live/espn.plus.13.us.png",ESPN Plus 13
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/espn.plus.13.us.m3u8
+#EXTINF:-1 tvg-id="espn.plus.14.us" tvg-name="espn.plus.14.us" tvg-type="live" group-title="Sports ESPN" tvg-logo="https://media.tv4.live/espn.plus.14.us.png",ESPN Plus 14
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/espn.plus.14.us.m3u8
+#EXTINF:-1 tvg-id="espn.plus.15.us" tvg-name="espn.plus.15.us" tvg-type="live" group-title="Sports ESPN" tvg-logo="https://media.tv4.live/espn.plus.15.us.png",ESPN Plus 15
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/espn.plus.15.us.m3u8
+#EXTINF:-1 tvg-id="espn.plus.16.us" tvg-name="espn.plus.16.us" tvg-type="live" group-title="Sports ESPN" tvg-logo="https://media.tv4.live/espn.plus.16.us.png",ESPN Plus 16
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/espn.plus.16.us.m3u8
+#EXTINF:-1 tvg-id="espn.plus.17.us" tvg-name="espn.plus.17.us" tvg-type="live" group-title="Sports ESPN" tvg-logo="https://media.tv4.live/espn.plus.17.us.png",ESPN Plus 17
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/espn.plus.17.us.m3u8
+#EXTINF:-1 tvg-id="espn.plus.18.us" tvg-name="espn.plus.18.us" tvg-type="live" group-title="Sports ESPN" tvg-logo="https://media.tv4.live/espn.plus.18.us.png",ESPN Plus 18
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/espn.plus.18.us.m3u8
+#EXTINF:-1 tvg-id="espn.plus.19.us" tvg-name="espn.plus.19.us" tvg-type="live" group-title="Sports ESPN" tvg-logo="https://media.tv4.live/espn.plus.19.us.png",ESPN Plus 19
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/espn.plus.19.us.m3u8
+#EXTINF:-1 tvg-id="espn.plus.20.us" tvg-name="espn.plus.20.us" tvg-type="live" group-title="Sports ESPN" tvg-logo="https://media.tv4.live/espn.plus.20.us.png",ESPN Plus 20
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/espn.plus.20.us.m3u8
+#EXTINF:-1 tvg-id="espn.plus.21.us" tvg-name="espn.plus.21.us" tvg-type="live" group-title="Sports ESPN" tvg-logo="https://media.tv4.live/espn.plus.21.us.png",ESPN Plus 21
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/espn.plus.21.us.m3u8
+#EXTINF:-1 tvg-id="espn.plus.22.us" tvg-name="espn.plus.22.us" tvg-type="live" group-title="Sports ESPN" tvg-logo="https://media.tv4.live/espn.plus.22.us.png",ESPN Plus 22
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/espn.plus.22.us.m3u8
+#EXTINF:-1 tvg-id="espn.plus.23.us" tvg-name="espn.plus.23.us" tvg-type="live" group-title="Sports ESPN" tvg-logo="https://media.tv4.live/espn.plus.23.us.png",ESPN Plus 23
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/espn.plus.23.us.m3u8
+#EXTINF:-1 tvg-id="espn.plus.24.us" tvg-name="espn.plus.24.us" tvg-type="live" group-title="Sports ESPN" tvg-logo="https://media.tv4.live/espn.plus.24.us.png",ESPN Plus 24
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/espn.plus.24.us.m3u8
+#EXTINF:-1 tvg-id="espn.plus.25.us" tvg-name="espn.plus.25.us" tvg-type="live" group-title="Sports ESPN" tvg-logo="https://media.tv4.live/espn.plus.25.us.png",ESPN Plus 25
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/espn.plus.25.us.m3u8
+#EXTINF:-1 tvg-id="espn.plus.26.us" tvg-name="espn.plus.26.us" tvg-type="live" group-title="Sports ESPN" tvg-logo="https://media.tv4.live/espn.plus.26.us.png",ESPN Plus 26
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/espn.plus.26.us.m3u8
+#EXTINF:-1 tvg-id="espn.plus.27.us" tvg-name="espn.plus.27.us" tvg-type="live" group-title="Sports ESPN" tvg-logo="https://media.tv4.live/espn.plus.27.us.png",ESPN Plus 27
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/espn.plus.27.us.m3u8
+#EXTINF:-1 tvg-id="espn.plus.28.us" tvg-name="espn.plus.28.us" tvg-type="live" group-title="Sports ESPN" tvg-logo="https://media.tv4.live/espn.plus.28.us.png",ESPN Plus 28
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/espn.plus.28.us.m3u8
+#EXTINF:-1 tvg-id="espn.plus.29.us" tvg-name="espn.plus.29.us" tvg-type="live" group-title="Sports ESPN" tvg-logo="https://media.tv4.live/espn.plus.29.us.png",ESPN Plus 29
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/espn.plus.29.us.m3u8
+#EXTINF:-1 tvg-id="espn.plus.30.us" tvg-name="espn.plus.30.us" tvg-type="live" group-title="Sports ESPN" tvg-logo="https://media.tv4.live/espn.plus.30.us.png",ESPN Plus 30
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/espn.plus.30.us.m3u8
+#EXTINF:-1 tvg-id="espn.plus.31.us" tvg-name="espn.plus.31.us" tvg-type="live" group-title="Sports ESPN" tvg-logo="https://media.tv4.live/espn.plus.31.us.png",ESPN Plus 31
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/espn.plus.31.us.m3u8
+#EXTINF:-1 tvg-id="espn.plus.32.us" tvg-name="espn.plus.32.us" tvg-type="live" group-title="Sports ESPN" tvg-logo="https://media.tv4.live/espn.plus.32.us.png",ESPN Plus 32
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/espn.plus.32.us.m3u8
+#EXTINF:-1 tvg-id="espn.plus.33.us" tvg-name="espn.plus.33.us" tvg-type="live" group-title="Sports ESPN" tvg-logo="https://media.tv4.live/espn.plus.33.us.png",ESPN Plus 33
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/espn.plus.33.us.m3u8
+#EXTINF:-1 tvg-id="espn.plus.34.us" tvg-name="espn.plus.34.us" tvg-type="live" group-title="Sports ESPN" tvg-logo="https://media.tv4.live/espn.plus.34.us.png",ESPN Plus 34
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/espn.plus.34.us.m3u8
+#EXTINF:-1 tvg-id="espn.plus.35.us" tvg-name="espn.plus.35.us" tvg-type="live" group-title="Sports ESPN" tvg-logo="https://media.tv4.live/espn.plus.35.us.png",ESPN Plus 35
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/espn.plus.35.us.m3u8
+#EXTINF:-1 tvg-id="espn.plus.36.us" tvg-name="espn.plus.36.us" tvg-type="live" group-title="Sports ESPN" tvg-logo="https://media.tv4.live/espn.plus.36.us.png",ESPN Plus 36
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/espn.plus.36.us.m3u8
+#EXTINF:-1 tvg-id="espn.plus.37.us" tvg-name="espn.plus.37.us" tvg-type="live" group-title="Sports ESPN" tvg-logo="https://media.tv4.live/espn.plus.37.us.png",ESPN Plus 37
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/espn.plus.37.us.m3u8
+#EXTINF:-1 tvg-id="espn.plus.38.us" tvg-name="espn.plus.38.us" tvg-type="live" group-title="Sports ESPN" tvg-logo="https://media.tv4.live/espn.plus.38.us.png",ESPN Plus 38
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/espn.plus.38.us.m3u8
+#EXTINF:-1 tvg-id="espn.plus.39.us" tvg-name="espn.plus.39.us" tvg-type="live" group-title="Sports ESPN" tvg-logo="https://media.tv4.live/espn.plus.39.us.png",ESPN Plus 39
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/espn.plus.39.us.m3u8
+#EXTINF:-1 tvg-id="espn.plus.40.us" tvg-name="espn.plus.40.us" tvg-type="live" group-title="Sports ESPN" tvg-logo="https://media.tv4.live/espn.plus.40.us.png",ESPN Plus 40
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/espn.plus.40.us.m3u8
+#EXTINF:-1 tvg-id="espn.plus.41.us" tvg-name="espn.plus.41.us" tvg-type="live" group-title="Sports ESPN" tvg-logo="https://media.tv4.live/espn.plus.41.us.png",ESPN Plus 41
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/espn.plus.41.us.m3u8
+#EXTINF:-1 tvg-id="espn.plus.42.us" tvg-name="espn.plus.42.us" tvg-type="live" group-title="Sports ESPN" tvg-logo="https://media.tv4.live/espn.plus.42.us.png",ESPN Plus 42
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/espn.plus.42.us.m3u8
+#EXTINF:-1 tvg-id="espn.plus.43.us" tvg-name="espn.plus.43.us" tvg-type="live" group-title="Sports ESPN" tvg-logo="https://media.tv4.live/espn.plus.43.us.png",ESPN Plus 43
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/espn.plus.43.us.m3u8
+#EXTINF:-1 tvg-id="espn.plus.44.us" tvg-name="espn.plus.44.us" tvg-type="live" group-title="Sports ESPN" tvg-logo="https://media.tv4.live/espn.plus.44.us.png",ESPN Plus 44
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/espn.plus.44.us.m3u8
+#EXTINF:-1 tvg-id="espn.plus.45.us" tvg-name="espn.plus.45.us" tvg-type="live" group-title="Sports ESPN" tvg-logo="https://media.tv4.live/espn.plus.45.us.png",ESPN Plus 45
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/espn.plus.45.us.m3u8
+#EXTINF:-1 tvg-id="espn.plus.46.us" tvg-name="espn.plus.46.us" tvg-type="live" group-title="Sports ESPN" tvg-logo="https://media.tv4.live/espn.plus.46.us.png",ESPN Plus 46
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/espn.plus.46.us.m3u8
+#EXTINF:-1 tvg-id="espn.plus.47.us" tvg-name="espn.plus.47.us" tvg-type="live" group-title="Sports ESPN" tvg-logo="https://media.tv4.live/espn.plus.47.us.png",ESPN Plus 47
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/espn.plus.47.us.m3u8
+#EXTINF:-1 tvg-id="espn.plus.48.us" tvg-name="espn.plus.48.us" tvg-type="live" group-title="Sports ESPN" tvg-logo="https://media.tv4.live/espn.plus.48.us.png",ESPN Plus 48
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/espn.plus.48.us.m3u8
+#EXTINF:-1 tvg-id="espn.plus.49.us" tvg-name="espn.plus.49.us" tvg-type="live" group-title="Sports ESPN" tvg-logo="https://media.tv4.live/espn.plus.49.us.png",ESPN Plus 49
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/espn.plus.49.us.m3u8
+#EXTINF:-1 tvg-id="espn.plus.50.us" tvg-name="espn.plus.50.us" tvg-type="live" group-title="Sports ESPN" tvg-logo="https://media.tv4.live/espn.plus.50.us.png",ESPN Plus 50
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/espn.plus.50.us.m3u8
+#EXTINF:-1 tvg-id="espn.plus.51.us" tvg-name="espn.plus.51.us" tvg-type="live" group-title="Sports ESPN" tvg-logo="https://media.tv4.live/espn.plus.51.us.png",ESPN Plus 51
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/espn.plus.51.us.m3u8
+#EXTINF:-1 tvg-id="espn.plus.52.us" tvg-name="espn.plus.52.us" tvg-type="live" group-title="Sports ESPN" tvg-logo="https://media.tv4.live/espn.plus.52.us.png",ESPN Plus 52
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/espn.plus.52.us.m3u8
+#EXTINF:-1 tvg-id="espn.plus.53.us" tvg-name="espn.plus.53.us" tvg-type="live" group-title="Sports ESPN" tvg-logo="https://media.tv4.live/espn.plus.53.us.png",ESPN Plus 53
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/espn.plus.53.us.m3u8
+#EXTINF:-1 tvg-id="espn.plus.54.us" tvg-name="espn.plus.54.us" tvg-type="live" group-title="Sports ESPN" tvg-logo="https://media.tv4.live/espn.plus.54.us.png",ESPN Plus 54
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/espn.plus.54.us.m3u8
+#EXTINF:-1 tvg-id="espn.plus.55.us" tvg-name="espn.plus.55.us" tvg-type="live" group-title="Sports ESPN" tvg-logo="https://media.tv4.live/espn.plus.55.us.png",ESPN Plus 55
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/espn.plus.55.us.m3u8
+#EXTINF:-1 tvg-id="espn.u.us" tvg-name="espn.u.us" tvg-type="live" group-title="Sports ESPN" tvg-logo="https://media.tv4.live/espn.u.us.png",ESPN U US
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/espn.u.us.m3u8
+#EXTINF:-1 tvg-id="espn.us" tvg-name="espn.us" tvg-type="live" group-title="Sports ESPN" tvg-logo="https://media.tv4.live/espn.us.png",ESPN US
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/espn.us.m3u8
+#EXTINF:-1 tvg-id="flow.sports.epl.1.eu" tvg-name="flow.sports.epl.1.eu" tvg-type="live" group-title="Sports EFL EPL" tvg-logo="https://media.tv4.live/flow.sports.epl.1.eu.png",Flow Sports EPL 01
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/flow.sports.epl.1.eu.m3u8
+#EXTINF:-1 tvg-id="flow.sports.epl.2.eu" tvg-name="flow.sports.epl.2.eu" tvg-type="live" group-title="Sports EFL EPL" tvg-logo="https://media.tv4.live/flow.sports.epl.2.eu.png",Flow Sports EPL 02
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/flow.sports.epl.2.eu.m3u8
+#EXTINF:-1 tvg-id="flow.sports.epl.3.eu" tvg-name="flow.sports.epl.3.eu" tvg-type="live" group-title="Sports EFL EPL" tvg-logo="https://media.tv4.live/flow.sports.epl.3.eu.png",Flow Sports EPL 03
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/flow.sports.epl.3.eu.m3u8
+#EXTINF:-1 tvg-id="flow.sports.epl.4.eu" tvg-name="flow.sports.epl.4.eu" tvg-type="live" group-title="Sports EFL EPL" tvg-logo="https://media.tv4.live/flow.sports.epl.4.eu.png",Flow Sports EPL 04
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/flow.sports.epl.4.eu.m3u8
+#EXTINF:-1 tvg-id="flow.sports.epl.5.eu" tvg-name="flow.sports.epl.5.eu" tvg-type="live" group-title="Sports EFL EPL" tvg-logo="https://media.tv4.live/flow.sports.epl.5.eu.png",Flow Sports EPL 05
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/flow.sports.epl.5.eu.m3u8
+#EXTINF:-1 tvg-id="flow.sports.epl.6.eu" tvg-name="flow.sports.epl.6.eu" tvg-type="live" group-title="Sports EFL EPL" tvg-logo="https://media.tv4.live/flow.sports.epl.6.eu.png",Flow Sports EPL 06
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/flow.sports.epl.6.eu.m3u8
+#EXTINF:-1 tvg-id="flow.sports.epl.7.eu" tvg-name="flow.sports.epl.7.eu" tvg-type="live" group-title="Sports EFL EPL" tvg-logo="https://media.tv4.live/flow.sports.epl.7.eu.png",Flow Sports EPL 07
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/flow.sports.epl.7.eu.m3u8
+#EXTINF:-1 tvg-id="flow.sports.epl.8.eu" tvg-name="flow.sports.epl.8.eu" tvg-type="live" group-title="Sports EFL EPL" tvg-logo="https://media.tv4.live/flow.sports.epl.8.eu.png",Flow Sports EPL 08
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/flow.sports.epl.8.eu.m3u8
+#EXTINF:-1 tvg-id="flow.sports.epl.9.eu" tvg-name="flow.sports.epl.9.eu" tvg-type="live" group-title="Sports EFL EPL" tvg-logo="https://media.tv4.live/flow.sports.epl.9.eu.png",Flow Sports EPL 09
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/flow.sports.epl.9.eu.m3u8
+#EXTINF:-1 tvg-id="flow.sports.epl.10.eu" tvg-name="flow.sports.epl.10.eu" tvg-type="live" group-title="Sports EFL EPL" tvg-logo="https://media.tv4.live/flow.sports.epl.10.eu.png",Flow Sports EPL 10
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/flow.sports.epl.10.eu.m3u8
+#EXTINF:-1 tvg-id="fox.matchpass.1.us" tvg-name="fox.matchpass.1.us" tvg-type="live" group-title="Sports EFL EPL" tvg-logo="https://media.tv4.live/fox.matchpass.1.us.png",Fox Soccer Match Pass 01
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/fox.matchpass.1.us.m3u8
+#EXTINF:-1 tvg-id="fox.matchpass.2.us" tvg-name="fox.matchpass.2.us" tvg-type="live" group-title="Sports EFL EPL" tvg-logo="https://media.tv4.live/fox.matchpass.2.us.png",Fox Soccer Match Pass 02
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/fox.matchpass.2.us.m3u8
+#EXTINF:-1 tvg-id="fox.matchpass.3.us" tvg-name="fox.matchpass.3.us" tvg-type="live" group-title="Sports EFL EPL" tvg-logo="https://media.tv4.live/fox.matchpass.3.us.png",Fox Soccer Match Pass 03
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/fox.matchpass.3.us.m3u8
+#EXTINF:-1 tvg-id="fox.matchpass.4.us" tvg-name="fox.matchpass.4.us" tvg-type="live" group-title="Sports EFL EPL" tvg-logo="https://media.tv4.live/fox.matchpass.4.us.png",Fox Soccer Match Pass 04
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/fox.matchpass.4.us.m3u8
+#EXTINF:-1 tvg-id="fox.matchpass.5.us" tvg-name="fox.matchpass.5.us" tvg-type="live" group-title="Sports EFL EPL" tvg-logo="https://media.tv4.live/fox.matchpass.5.us.png",Fox Soccer Match Pass 05
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/fox.matchpass.5.us.m3u8
+#EXTINF:-1 tvg-id="fox.matchpass.6.us" tvg-name="fox.matchpass.6.us" tvg-type="live" group-title="Sports EFL EPL" tvg-logo="https://media.tv4.live/fox.matchpass.6.us.png",Fox Soccer Match Pass 06
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/fox.matchpass.6.us.m3u8
+#EXTINF:-1 tvg-id="fox.matchpass.7.us" tvg-name="fox.matchpass.7.us" tvg-type="live" group-title="Sports EFL EPL" tvg-logo="https://media.tv4.live/fox.matchpass.7.us.png",Fox Soccer Match Pass 07
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/fox.matchpass.7.us.m3u8
+#EXTINF:-1 tvg-id="fox.matchpass.8.us" tvg-name="fox.matchpass.8.us" tvg-type="live" group-title="Sports EFL EPL" tvg-logo="https://media.tv4.live/fox.matchpass.8.us.png",Fox Soccer Match Pass 08
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/fox.matchpass.8.us.m3u8
+#EXTINF:-1 tvg-id="fox.matchpass.9.us" tvg-name="fox.matchpass.9.us" tvg-type="live" group-title="Sports EFL EPL" tvg-logo="https://media.tv4.live/fox.matchpass.9.us.png",Fox Soccer Match Pass 09
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/fox.matchpass.9.us.m3u8
+#EXTINF:-1 tvg-id="fox.matchpass.10.us" tvg-name="fox.matchpass.10.us" tvg-type="live" group-title="Sports EFL EPL" tvg-logo="https://media.tv4.live/fox.matchpass.10.us.png",Fox Soccer Match Pass 10
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/fox.matchpass.10.us.m3u8
+#EXTINF:-1 tvg-id="fox.matchpass.11.us" tvg-name="fox.matchpass.11.us" tvg-type="live" group-title="Sports EFL EPL" tvg-logo="https://media.tv4.live/fox.matchpass.11.us.png",Fox Soccer Match Pass 11
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/fox.matchpass.11.us.m3u8
+#EXTINF:-1 tvg-id="fox.matchpass.12.us" tvg-name="fox.matchpass.12.us" tvg-type="live" group-title="Sports EFL EPL" tvg-logo="https://media.tv4.live/fox.matchpass.12.us.png",Fox Soccer Match Pass 12
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/fox.matchpass.12.us.m3u8
+#EXTINF:-1 tvg-id="fox.matchpass.13.us" tvg-name="fox.matchpass.13.us" tvg-type="live" group-title="Sports EFL EPL" tvg-logo="https://media.tv4.live/fox.matchpass.13.us.png",Fox Soccer Match Pass 13
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/fox.matchpass.13.us.m3u8
+#EXTINF:-1 tvg-id="fox.matchpass.14.us" tvg-name="fox.matchpass.14.us" tvg-type="live" group-title="Sports EFL EPL" tvg-logo="https://media.tv4.live/fox.matchpass.14.us.png",Fox Soccer Match Pass 14
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/fox.matchpass.14.us.m3u8
+#EXTINF:-1 tvg-id="fox.matchpass.15.us" tvg-name="fox.matchpass.15.us" tvg-type="live" group-title="Sports EFL EPL" tvg-logo="https://media.tv4.live/fox.matchpass.15.us.png",Fox Soccer Match Pass 15
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/fox.matchpass.15.us.m3u8
+#EXTINF:-1 tvg-id="mlb.1.us" tvg-name="mlb.1.us" tvg-type="live" group-title="Sports MLB" tvg-logo="https://media.tv4.live/mlb.1.us.png",MLB 01
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/mlb.1.us.m3u8
+#EXTINF:-1 tvg-id="mlb.2.us" tvg-name="mlb.2.us" tvg-type="live" group-title="Sports MLB" tvg-logo="https://media.tv4.live/mlb.2.us.png",MLB 02
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/mlb.2.us.m3u8
+#EXTINF:-1 tvg-id="mlb.3.us" tvg-name="mlb.3.us" tvg-type="live" group-title="Sports MLB" tvg-logo="https://media.tv4.live/mlb.3.us.png",MLB 03
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/mlb.3.us.m3u8
+#EXTINF:-1 tvg-id="mlb.4.us" tvg-name="mlb.4.us" tvg-type="live" group-title="Sports MLB" tvg-logo="https://media.tv4.live/mlb.4.us.png",MLB 04
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/mlb.4.us.m3u8
+#EXTINF:-1 tvg-id="mlb.5.us" tvg-name="mlb.5.us" tvg-type="live" group-title="Sports MLB" tvg-logo="https://media.tv4.live/mlb.5.us.png",MLB 05
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/mlb.5.us.m3u8
+#EXTINF:-1 tvg-id="mlb.6.us" tvg-name="mlb.6.us" tvg-type="live" group-title="Sports MLB" tvg-logo="https://media.tv4.live/mlb.6.us.png",MLB 06
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/mlb.6.us.m3u8
+#EXTINF:-1 tvg-id="mlb.7.us" tvg-name="mlb.7.us" tvg-type="live" group-title="Sports MLB" tvg-logo="https://media.tv4.live/mlb.7.us.png",MLB 07
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/mlb.7.us.m3u8
+#EXTINF:-1 tvg-id="mlb.8.us" tvg-name="mlb.8.us" tvg-type="live" group-title="Sports MLB" tvg-logo="https://media.tv4.live/mlb.8.us.png",MLB 08
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/mlb.8.us.m3u8
+#EXTINF:-1 tvg-id="mlb.9.us" tvg-name="mlb.9.us" tvg-type="live" group-title="Sports MLB" tvg-logo="https://media.tv4.live/mlb.9.us.png",MLB 09
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/mlb.9.us.m3u8
+#EXTINF:-1 tvg-id="mlb.10.us" tvg-name="mlb.10.us" tvg-type="live" group-title="Sports MLB" tvg-logo="https://media.tv4.live/mlb.10.us.png",MLB 10
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/mlb.10.us.m3u8
+#EXTINF:-1 tvg-id="mlb.11.us" tvg-name="mlb.11.us" tvg-type="live" group-title="Sports MLB" tvg-logo="https://media.tv4.live/mlb.11.us.png",MLB 11
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/mlb.11.us.m3u8
+#EXTINF:-1 tvg-id="mlb.12.us" tvg-name="mlb.12.us" tvg-type="live" group-title="Sports MLB" tvg-logo="https://media.tv4.live/mlb.12.us.png",MLB 12
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/mlb.12.us.m3u8
+#EXTINF:-1 tvg-id="mlb.13.us" tvg-name="mlb.13.us" tvg-type="live" group-title="Sports MLB" tvg-logo="https://media.tv4.live/mlb.13.us.png",MLB 13
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/mlb.13.us.m3u8
+#EXTINF:-1 tvg-id="mlb.14.us" tvg-name="mlb.14.us" tvg-type="live" group-title="Sports MLB" tvg-logo="https://media.tv4.live/mlb.14.us.png",MLB 14
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/mlb.14.us.m3u8
+#EXTINF:-1 tvg-id="mlb.15.us" tvg-name="mlb.15.us" tvg-type="live" group-title="Sports MLB" tvg-logo="https://media.tv4.live/mlb.15.us.png",MLB 15
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/mlb.15.us.m3u8
+#EXTINF:-1 tvg-id="mlb.16.us" tvg-name="mlb.16.us" tvg-type="live" group-title="Sports MLB" tvg-logo="https://media.tv4.live/mlb.16.us.png",MLB 16
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/mlb.16.us.m3u8
+#EXTINF:-1 tvg-id="mlb.17.us" tvg-name="mlb.17.us" tvg-type="live" group-title="Sports MLB" tvg-logo="https://media.tv4.live/mlb.17.us.png",MLB 17
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/mlb.17.us.m3u8
+#EXTINF:-1 tvg-id="mlb.18.us" tvg-name="mlb.18.us" tvg-type="live" group-title="Sports MLB" tvg-logo="https://media.tv4.live/mlb.18.us.png",MLB 18
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/mlb.18.us.m3u8
+#EXTINF:-1 tvg-id="mlb.19.us" tvg-name="mlb.19.us" tvg-type="live" group-title="Sports MLB" tvg-logo="https://media.tv4.live/mlb.19.us.png",MLB 19
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/mlb.19.us.m3u8
+#EXTINF:-1 tvg-id="mlb.20.us" tvg-name="mlb.20.us" tvg-type="live" group-title="Sports MLB" tvg-logo="https://media.tv4.live/mlb.20.us.png",MLB 20
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/mlb.20.us.m3u8
+#EXTINF:-1 tvg-id="mlb.network.strike.zone.us" tvg-name="mlb.network.strike.zone.us" tvg-type="live" group-title="Sports MLB" tvg-logo="https://media.tv4.live/mlb.network.strike.zone.us.png",MLB Network Strike Zone US
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/mlb.network.strike.zone.us.m3u8
+#EXTINF:-1 tvg-id="mlb.network.us" tvg-name="mlb.network.us" tvg-type="live" group-title="Sports MLB" tvg-logo="https://media.tv4.live/mlb.network.us.png",MLB Network US
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/mlb.network.us.m3u8
+#EXTINF:-1 tvg-id="bt.sport.box.office.uk" tvg-name="bt.sport.box.office.uk" tvg-type="live" group-title="Sports UFC BOXING WWE" tvg-logo="https://media.tv4.live/bt.sport.box.office.uk.png",BT Sport Box Office UK
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/bt.sport.box.office.uk.m3u8
+#EXTINF:-1 tvg-id="ppv.1.us" tvg-name="ppv.1.us" tvg-type="live" group-title="Sports UFC BOXING WWE" tvg-logo="https://media.tv4.live/ppv.1.us.png",PPV 01:DAZN - Quigg Vs Carroll (03/07)
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/ppv.1.us.m3u8
+#EXTINF:-1 tvg-id="ppv.2.us" tvg-name="ppv.2.us" tvg-type="live" group-title="Sports UFC BOXING WWE" tvg-logo="https://media.tv4.live/ppv.2.us.png",PPV 02: Endzone7on7 Texas Tourn D1 F1A (03/07 10AM ET)
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/ppv.2.us.m3u8
+#EXTINF:-1 tvg-id="ppv.3.us" tvg-name="ppv.3.us" tvg-type="live" group-title="Sports UFC BOXING WWE" tvg-logo="https://media.tv4.live/ppv.3.us.png",PPV 03: Endzone7on7 Texas Tourn D1 F1B (03/07 10AM ET)
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/ppv.3.us.m3u8
+#EXTINF:-1 tvg-id="ppv.4.us" tvg-name="ppv.4.us" tvg-type="live" group-title="Sports UFC BOXING WWE" tvg-logo="https://media.tv4.live/ppv.4.us.png",PPV 04: Texas Football Tournament, D1 (03/07 10AM ET)
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/ppv.4.us.m3u8
+#EXTINF:-1 tvg-id="ppv.5.us" tvg-name="ppv.5.us" tvg-type="live" group-title="Sports UFC BOXING WWE" tvg-logo="https://media.tv4.live/ppv.5.us.png",PPV 05: Endzone7on7 Texas Tourn Pack (03/07 10AM ET)
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/ppv.5.us.m3u8
+#EXTINF:-1 tvg-id="ppv.6.us" tvg-name="ppv.6.us" tvg-type="live" group-title="Sports UFC BOXING WWE" tvg-logo="https://media.tv4.live/ppv.6.us.png",PPV 06: EVE Pro Wrestling Woman Behaving Badly (03/07 3PM ET)
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/ppv.6.us.m3u8
+#EXTINF:-1 tvg-id="ppv.7.us" tvg-name="ppv.7.us" tvg-type="live" group-title="Sports UFC BOXING WWE" tvg-logo="https://media.tv4.live/ppv.7.us.png",PPV 07: NWA Powerrr, Episode 19 (03/07 6:05PM ET)
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/ppv.7.us.m3u8
+#EXTINF:-1 tvg-id="ppv.8.us" tvg-name="ppv.8.us" tvg-type="live" group-title="Sports UFC BOXING WWE" tvg-logo="https://media.tv4.live/ppv.8.us.png",PPV 08: ACW Luck of the Irish (03/07 7PM ET)
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/ppv.8.us.m3u8
+#EXTINF:-1 tvg-id="ppv.9.us" tvg-name="ppv.9.us" tvg-type="live" group-title="Sports UFC BOXING WWE" tvg-logo="https://media.tv4.live/ppv.9.us.png",PPV 09: Samuel Clarkson vs Israel Duffus (03/07 8PM ET)
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/ppv.9.us.m3u8
+#EXTINF:-1 tvg-id="ppv.10.us" tvg-name="ppv.10.us" tvg-type="live" group-title="Sports UFC BOXING WWE" tvg-logo="https://media.tv4.live/ppv.10.us.png",PPV 10: UFC 248 2 Title (03/07)
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/ppv.10.us.m3u8
+#EXTINF:-1 tvg-id="ppv.11.us" tvg-name="ppv.11.us" tvg-type="live" group-title="Sports UFC BOXING WWE" tvg-logo="https://media.tv4.live/ppv.11.us.png",PPV 11: Samuel Clarkson vs Israel Duffus (03/07 8PM ET)
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/ppv.11.us.m3u8
+#EXTINF:-1 tvg-id="ppv.12.us" tvg-name="ppv.12.us" tvg-type="live" group-title="Sports UFC BOXING WWE" tvg-logo="https://media.tv4.live/ppv.12.us.png",PPV 12: Eternal MMA 52 (03/07 3AM ET)
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/ppv.12.us.m3u8
+#EXTINF:-1 tvg-id="ppv.13.us" tvg-name="ppv.13.us" tvg-type="live" group-title="Sports UFC BOXING WWE" tvg-logo="https://media.tv4.live/ppv.13.us.png",PPV 13: Cage Warriors 112 (03/07 3PM ET)
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/ppv.13.us.m3u8
+#EXTINF:-1 tvg-id="ppv.14.us" tvg-name="ppv.14.us" tvg-type="live" group-title="Sports UFC BOXING WWE" tvg-logo="https://media.tv4.live/ppv.14.us.png",PPV 14:
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/ppv.14.us.m3u8
+#EXTINF:-1 tvg-id="ppv.15.us" tvg-name="ppv.15.us" tvg-type="live" group-title="Sports UFC BOXING WWE" tvg-logo="https://media.tv4.live/ppv.15.us.png",PPV 15: 
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/ppv.15.us.m3u8
+#EXTINF:-1 tvg-id="ppv.16.us" tvg-name="ppv.16.us" tvg-type="live" group-title="Sports UFC BOXING WWE" tvg-logo="https://media.tv4.live/ppv.16.us.png",PPV 16: 
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/ppv.16.us.m3u8
+#EXTINF:-1 tvg-id="ppv.17.us" tvg-name="ppv.17.us" tvg-type="live" group-title="Sports UFC BOXING WWE" tvg-logo="https://media.tv4.live/ppv.17.us.png",PPV 17: 
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/ppv.17.us.m3u8
+#EXTINF:-1 tvg-id="sky.sports.box.office.uk" tvg-name="sky.sports.box.office.uk" tvg-type="live" group-title="Sports UFC BOXING WWE" tvg-logo="https://media.tv4.live/sky.sports.box.office.uk.png",Sky Sports Box Office UK
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/sky.sports.box.office.uk.m3u8
+#EXTINF:-1 tvg-id="ufc.us" tvg-name="ufc.us" tvg-type="live" group-title="Sports UFC BOXING WWE" tvg-logo="https://media.tv4.live/ufc.us.png",UFC 24/7
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/ufc.us.m3u8
+#EXTINF:-1 tvg-id="ufc.fightpass.1.us" tvg-name="ufc.fightpass.1.us" tvg-type="live" group-title="Sports UFC BOXING WWE" tvg-logo="https://media.tv4.live/ufc.fightpass.1.us.png",UFC Fight Pass 01
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/ufc.fightpass.1.us.m3u8
+#EXTINF:-1 tvg-id="ufc.fightpass.2.us" tvg-name="ufc.fightpass.2.us" tvg-type="live" group-title="Sports UFC BOXING WWE" tvg-logo="https://media.tv4.live/ufc.fightpass.2.us.png",UFC Fight Pass 02
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/ufc.fightpass.2.us.m3u8
+#EXTINF:-1 tvg-id="ufc.fightpass.3.us" tvg-name="ufc.fightpass.3.us" tvg-type="live" group-title="Sports UFC BOXING WWE" tvg-logo="https://media.tv4.live/ufc.fightpass.3.us.png",UFC Fight Pass 03
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/ufc.fightpass.3.us.m3u8
+#EXTINF:-1 tvg-id="ufc.fightpass.4.us" tvg-name="ufc.fightpass.4.us" tvg-type="live" group-title="Sports UFC BOXING WWE" tvg-logo="https://media.tv4.live/ufc.fightpass.4.us.png",UFC Fight Pass 04
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/ufc.fightpass.4.us.m3u8
+#EXTINF:-1 tvg-id="ufc.fightpass.5.us" tvg-name="ufc.fightpass.5.us" tvg-type="live" group-title="Sports UFC BOXING WWE" tvg-logo="https://media.tv4.live/ufc.fightpass.5.us.png",UFC Fight Pass 05
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/ufc.fightpass.5.us.m3u8
+#EXTINF:-1 tvg-id="ufc.fightpass.6.us" tvg-name="ufc.fightpass.6.us" tvg-type="live" group-title="Sports UFC BOXING WWE" tvg-logo="https://media.tv4.live/ufc.fightpass.6.us.png",UFC Fight Pass 06
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/ufc.fightpass.6.us.m3u8
+#EXTINF:-1 tvg-id="ufc.fightpass.7.us" tvg-name="ufc.fightpass.7.us" tvg-type="live" group-title="Sports UFC BOXING WWE" tvg-logo="https://media.tv4.live/ufc.fightpass.7.us.png",UFC Fight Pass 07
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/ufc.fightpass.7.us.m3u8
+#EXTINF:-1 tvg-id="ufc.fightpass.8.us" tvg-name="ufc.fightpass.8.us" tvg-type="live" group-title="Sports UFC BOXING WWE" tvg-logo="https://media.tv4.live/ufc.fightpass.8.us.png",UFC Fight Pass 08
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/ufc.fightpass.8.us.m3u8
+#EXTINF:-1 tvg-id="ufc.fightpass.9.us" tvg-name="ufc.fightpass.9.us" tvg-type="live" group-title="Sports UFC BOXING WWE" tvg-logo="https://media.tv4.live/ufc.fightpass.9.us.png",UFC Fight Pass 09
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/ufc.fightpass.9.us.m3u8
+#EXTINF:-1 tvg-id="ufc.fightpass.10.us" tvg-name="ufc.fightpass.10.us" tvg-type="live" group-title="Sports UFC BOXING WWE" tvg-logo="https://media.tv4.live/ufc.fightpass.10.us.png",UFC Fight Pass 10
+https://tv4.live/api/stream/fridrch4529@gmail.com/8u966/livetv.epg/ufc.fightpass.10.us.m3u8
